@@ -1,0 +1,2 @@
+Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+GO:0007155	0.0157437315420444	1	227	100022	7	BP	cell adhesion

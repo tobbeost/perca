@@ -1,0 +1,29 @@
+	Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+1	GO:0003873	0.000582254839932789	2	15	100234	239	MF	6-phosphofructo-2-kinase activity
+2	GO:0003987	0.000251509837213651	2	10	100239	239	MF	acetate-CoA ligase activity
+3	GO:0004144	0.0142197487209828	1	6	100243	239	MF	diacylglycerol O-acyltransferase activity
+4	GO:0004331	0.000251509837213651	2	10	100239	239	MF	fructose-2,6-bisphosphate 2-phosphatase activity
+5	GO:0004392	0.000117927343588761	2	7	100242	239	MF	heme oxygenase (decyclizing) activity
+6	GO:0004601	0.0305551497565233	1	13	100236	239	MF	peroxidase activity
+7	GO:0004666	0.00950234801109806	1	4	100245	239	MF	prostaglandin-endoperoxide synthase activity
+8	GO:0004800	3.38532527171784e-05	2	4	100245	239	MF	thyroxine 5'-deiodinase activity
+9	GO:0005021	0.0328666677661025	1	14	100235	239	MF	vascular endothelial growth factor-activated receptor activity
+10	GO:0005109	0.0212539319479473	1	9	100240	239	MF	frizzled binding
+11	GO:0005249	0.0259155961299449	1	11	100238	239	MF	voltage-gated potassium channel activity
+12	GO:0005452	0.0305551497565233	1	13	100236	239	MF	inorganic anion exchanger activity
+13	GO:0005509	0.00063165851409772	8	780	99469	239	MF	calcium ion binding
+14	GO:0005518	0.0305551497565233	1	13	100236	239	MF	collagen binding
+15	GO:0005540	3.38532527171784e-05	2	4	100245	239	MF	hyaluronic acid binding
+16	GO:0015279	0.00476246732819063	1	2	100247	239	MF	store-operated calcium channel activity
+17	GO:0016208	0.00104535072075852	2	20	100229	239	MF	AMP binding
+18	GO:0030215	0.0305551497565233	1	13	100236	239	MF	semaphorin receptor binding
+19	GO:0032403	0.0158295257709602	2	80	100169	239	MF	protein complex binding
+20	GO:0035252	5.63331943850385e-05	2	5	100244	239	MF	UDP-xylosyltransferase activity
+21	GO:0045499	0.0305551497565233	1	13	100236	239	MF	chemorepellent activity
+22	GO:0046592	0.00238406368143329	1	1	100248	239	MF	polyamine oxidase activity
+23	GO:0050840	0.0259155961299449	1	11	100238	239	MF	extracellular matrix binding
+24	GO:0051920	0.000942296000844209	2	19	100230	239	MF	peroxiredoxin activity
+25	GO:0052894	0.00238406368143329	1	1	100248	239	MF	norspermine:oxygen oxidoreductase activity
+26	GO:0052895	0.00238406368143329	1	1	100248	239	MF	N1-acetylspermine:oxygen oxidoreductase (N1-acetylspermidine-forming) activity
+27	GO:0052901	0.00238406368143329	1	1	100248	239	MF	spermine:oxygen oxidoreductase (spermidine-forming) activity
+28	GO:0070008	0.0235875344046955	1	10	100239	239	MF	serine-type exopeptidase activity

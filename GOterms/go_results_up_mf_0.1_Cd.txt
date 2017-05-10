@@ -1,0 +1,3 @@
+	Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+1	GO:0004872	0.0199217616454455	1	112	100137	18	MF	receptor activity
+2	GO:0005198	0.0253692300788413	1	143	100106	18	MF	structural molecule activity

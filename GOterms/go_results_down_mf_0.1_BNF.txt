@@ -1,0 +1,2 @@
+	Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+1	GO:0005540	0.000398952744121606	1	4	100245	10	MF	hyaluronic acid binding

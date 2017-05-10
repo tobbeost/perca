@@ -1,0 +1,30 @@
+	Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+1	GO:0001716	0.00102055325223094	2	9	100240	541	MF	L-amino-acid oxidase activity
+2	GO:0001848	0.0236824981234492	2	44	100205	541	MF	complement binding
+3	GO:0001872	0.021707098181408	2	42	100207	541	MF	(1->3)-beta-D-glucan binding
+4	GO:0003823	0.0334226430430944	2	53	100196	541	MF	antigen binding
+5	GO:0003886	0.0371709228076189	1	7	100242	541	MF	DNA (cytosine-5-)-methyltransferase activity
+6	GO:0004497	0.0122207333843766	3	88	100161	541	MF	monooxygenase activity
+7	GO:0004512	0.0053965625592276	1	1	100248	541	MF	inositol-3-phosphate synthase activity
+8	GO:0004866	7.18995248373122e-12	16	287	99962	541	MF	endopeptidase inhibitor activity
+9	GO:0004867	1.35662597082444e-17	14	79	100170	541	MF	serine-type endopeptidase inhibitor activity
+10	GO:0005102	0.0281780838597826	3	121	100128	541	MF	receptor binding
+11	GO:0005319	2.82417607075074e-25	14	27	100222	541	MF	lipid transporter activity
+12	GO:0005496	1.14116827152312e-05	4	26	100223	541	MF	steroid binding
+13	GO:0005506	5.43689680360793e-07	11	284	99965	541	MF	iron ion binding
+14	GO:0008233	4.26564335181279e-13	11	76	100173	541	MF	peptidase activity
+15	GO:0015106	0.0371709228076189	1	7	100242	541	MF	bicarbonate transmembrane transporter activity
+16	GO:0015116	0.0214124585139136	1	4	100245	541	MF	sulfate transmembrane transporter activity
+17	GO:0015301	0.0475355904641663	1	9	100240	541	MF	anion:anion antiporter activity
+18	GO:0016491	0.0353677963457526	4	227	100022	541	MF	oxidoreductase activity
+19	GO:0016524	0.0475355904641663	1	9	100240	541	MF	latrotoxin receptor activity
+20	GO:0016712	0.00046306832822461	3	28	100221	541	MF	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen
+21	GO:0019531	0.0266936781253055	1	5	100244	541	MF	oxalate transmembrane transporter activity
+22	GO:0019825	0.003746745549403	2	17	100232	541	MF	oxygen binding
+23	GO:0020037	5.55781820646792e-07	10	227	100022	541	MF	heme binding
+24	GO:0030246	1.78181617894551e-36	37	334	99915	541	MF	carbohydrate binding
+25	GO:0030284	5.77030702597339e-07	4	13	100236	541	MF	estrogen receptor activity
+26	GO:0031267	0.00467750116042134	2	19	100230	541	MF	small GTPase binding
+27	GO:0045735	1.92765577281679e-23	10	10	100239	541	MF	nutrient reservoir activity
+28	GO:0070330	2.89825949054639e-11	8	38	100211	541	MF	aromatase activity
+29	GO:0072345	0.0266936781253055	1	5	100244	541	MF	NAADP-sensitive calcium-release channel activity

@@ -1,0 +1,20 @@
+	Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+1	GO:0001716	0.000220430203267414	2	9	100240	250	MF	L-amino-acid oxidase activity
+2	GO:0003777	0.0237550117563267	2	95	100154	250	MF	microtubule motor activity
+3	GO:0003840	0.0270935313561393	1	11	100238	250	MF	gamma-glutamyltransferase activity
+4	GO:0004866	1.25102795123256e-11	12	287	99962	250	MF	endopeptidase inhibitor activity
+5	GO:0004867	1.44613053444576e-16	11	79	100170	250	MF	serine-type endopeptidase inhibitor activity
+6	GO:0005102	0.00355295484011244	3	121	100128	250	MF	receptor binding
+7	GO:0005261	0.031940485924314	1	13	100236	250	MF	cation channel activity
+8	GO:0005319	2.04470935217415e-27	13	27	100222	250	MF	lipid transporter activity
+9	GO:0008233	3.97508540568568e-13	9	76	100173	250	MF	peptidase activity
+10	GO:0008271	0.0246609976058169	1	10	100239	250	MF	secondary active sulfate transmembrane transporter activity
+11	GO:0015106	0.0173269905319913	1	7	100242	250	MF	bicarbonate transmembrane transporter activity
+12	GO:0015116	0.00993805804392955	1	4	100245	250	MF	sulfate transmembrane transporter activity
+13	GO:0015301	0.0222224062406948	1	9	100240	250	MF	anion:anion antiporter activity
+14	GO:0016491	0.0195880764349494	3	227	100022	250	MF	oxidoreductase activity
+15	GO:0019531	0.0124071635902313	1	5	100244	250	MF	oxalate transmembrane transporter activity
+16	GO:0030246	1.54110058328657e-24	22	334	99915	250	MF	carbohydrate binding
+17	GO:0032947	0.0391658591476034	1	16	100233	250	MF	protein complex scaffold
+18	GO:0045735	7.75554195372755e-27	10	10	100239	250	MF	nutrient reservoir activity
+19	GO:0072345	0.0124071635902313	1	5	100244	250	MF	NAADP-sensitive calcium-release channel activity

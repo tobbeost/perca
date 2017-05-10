@@ -1,0 +1,36 @@
+	Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+1	GO:0003873	2.68684652073343e-05	3	15	100234	396	MF	6-phosphofructo-2-kinase activity
+2	GO:0003987	7.1911097826998e-06	3	10	100239	396	MF	acetate-CoA ligase activity
+3	GO:0004144	0.0234687361999895	1	6	100243	396	MF	diacylglycerol O-acyltransferase activity
+4	GO:0004331	7.1911097826998e-06	3	10	100239	396	MF	fructose-2,6-bisphosphate 2-phosphatase activity
+5	GO:0004392	0.000322598486744517	2	7	100242	396	MF	heme oxygenase (decyclizing) activity
+6	GO:0004531	0.0157075135302238	1	4	100245	396	MF	deoxyribonuclease II activity
+7	GO:0004613	0.0311689143503749	1	8	100241	396	MF	phosphoenolpyruvate carboxykinase (GTP) activity
+8	GO:0004666	0.0157075135302238	1	4	100245	396	MF	prostaglandin-endoperoxide synthase activity
+9	GO:0004731	0.0349962615428133	1	9	100240	396	MF	purine-nucleoside phosphorylase activity
+10	GO:0004800	9.28986221807396e-05	2	4	100245	396	MF	thyroxine 5'-deiodinase activity
+11	GO:0004888	0.00803193649765923	2	34	100215	396	MF	transmembrane signaling receptor activity
+12	GO:0005003	0.0234687361999895	1	6	100243	396	MF	ephrin receptor activity
+13	GO:0005109	0.0349962615428133	1	9	100240	396	MF	frizzled binding
+14	GO:0005249	0.000836098679338825	2	11	100238	396	MF	voltage-gated potassium channel activity
+15	GO:0005509	0.0042437823821103	9	780	99469	396	MF	calcium ion binding
+16	GO:0005537	0.0349962615428133	1	9	100240	396	MF	mannose binding
+17	GO:0005540	9.28986221807396e-05	2	4	100245	396	MF	hyaluronic acid binding
+18	GO:0008028	0.00788476363474278	1	2	100247	396	MF	monocarboxylic acid transmembrane transporter activity
+19	GO:0008201	0.0448225854885185	2	85	100164	396	MF	heparin binding
+20	GO:0015279	0.00788476363474278	1	2	100247	396	MF	store-operated calcium channel activity
+21	GO:0015467	0.00788476363474278	1	2	100247	396	MF	G-protein activated inward rectifier potassium channel activity
+22	GO:0016208	6.63375137673442e-05	3	20	100229	396	MF	AMP binding
+23	GO:0016763	0.00395016409141224	1	1	100248	396	MF	transferase activity, transferring pentosyl groups
+24	GO:0030215	0.00117955328670054	2	13	100236	396	MF	semaphorin receptor binding
+25	GO:0031406	0.00788476363474278	1	2	100247	396	MF	carboxylic acid binding
+26	GO:0032403	0.0401849321456393	2	80	100169	396	MF	protein complex binding
+27	GO:0035252	0.000154425609947482	2	5	100244	396	MF	UDP-xylosyltransferase activity
+28	GO:0045499	0.00117955328670054	2	13	100236	396	MF	chemorepellent activity
+29	GO:0046592	0.00395016409141224	1	1	100248	396	MF	polyamine oxidase activity
+30	GO:0050840	0.000836098679338825	2	11	100238	396	MF	extracellular matrix binding
+31	GO:0051920	0.00254572952784678	2	19	100230	396	MF	peroxiredoxin activity
+32	GO:0052894	0.00395016409141224	1	1	100248	396	MF	norspermine:oxygen oxidoreductase activity
+33	GO:0052895	0.00395016409141224	1	1	100248	396	MF	N1-acetylspermine:oxygen oxidoreductase (N1-acetylspermidine-forming) activity
+34	GO:0052901	0.00395016409141224	1	1	100248	396	MF	spermine:oxygen oxidoreductase (spermidine-forming) activity
+35	GO:0070008	0.038808526910222	1	10	100239	396	MF	serine-type exopeptidase activity

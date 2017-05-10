@@ -1,0 +1,4 @@
+Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+GO:0007411	0.0153307571402705	1	86	100163	18	BP	axon guidance
+GO:0030513	0.00573061485454762	1	32	100217	18	BP	positive regulation of BMP signaling pathway
+GO:0055072	0.00894044135452798	1	50	100199	18	BP	iron ion homeostasis

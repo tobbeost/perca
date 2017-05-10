@@ -1,0 +1,7 @@
+Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+GO:0002474	0.0292606593498547	1	119	100130	25	BP	antigen processing and presentation of peptide antigen via MHC class I
+GO:0006955	0.00221943499152098	2	279	99970	25	BP	immune response
+GO:0007158	0.00149537900734364	1	6	100243	25	BP	neuron cell-cell adhesion
+GO:0007416	0.00572063745860174	1	23	100226	25	BP	synapse assembly
+GO:0016042	0.0190284937879831	1	77	100172	25	BP	lipid catabolic process
+GO:0050804	0.00273988810714343	1	11	100238	25	BP	modulation of synaptic transmission

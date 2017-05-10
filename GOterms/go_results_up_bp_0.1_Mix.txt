@@ -1,0 +1,59 @@
+Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+GO:0001755	0.0207464913866889	2	41	100208	541	BP	neural crest cell migration
+GO:0001951	0.0214124585139136	1	4	100245	541	BP	intestinal D-glucose absorption
+GO:0002930	2.90693458421401e-05	2	2	100247	541	BP	trabecular meshwork development
+GO:0003433	0.0053965625592276	1	1	100248	541	BP	chondrocyte development involved in endochondral bone morphogenesis
+GO:0006021	0.0053965625592276	1	1	100248	541	BP	inositol biosynthetic process
+GO:0006725	8.68954420889726e-05	2	3	100246	541	BP	cellular aromatic compound metabolic process
+GO:0006805	0.00217978301826484	2	13	100236	541	BP	xenobiotic metabolic process
+GO:0006809	0.000429825917981123	2	6	100243	541	BP	nitric oxide biosynthetic process
+GO:0007422	0.00867125510297309	2	26	100223	541	BP	peripheral nervous system development
+GO:0007601	0.0207464913866889	2	41	100208	541	BP	visual perception
+GO:0008202	8.68954420889726e-05	2	3	100246	541	BP	steroid metabolic process
+GO:0008210	0.000287580068346652	2	5	100244	541	BP	estrogen metabolic process
+GO:0008631	0.003746745549403	2	17	100232	541	BP	intrinsic apoptotic signaling pathway in response to oxidative stress
+GO:0009404	0.000173168209757752	2	4	100245	541	BP	toxin metabolic process
+GO:0009408	0.00105944680184141	3	37	100212	541	BP	response to heat
+GO:0009617	0.0371709228076189	1	7	100242	541	BP	response to bacterium
+GO:0010265	0.0107640557726127	1	2	100247	541	BP	SCF complex assembly
+GO:0010575	0.00154805795555156	2	11	100238	541	BP	positive regulation of vascular endothelial growth factor production
+GO:0015701	0.0423672529961738	1	8	100241	541	BP	bicarbonate transport
+GO:0016125	0.00217978301826484	2	13	100236	541	BP	sterol metabolic process
+GO:0019369	0.000599603121679598	2	7	100242	541	BP	arachidonic acid metabolic process
+GO:0019373	0.00102055325223094	2	9	100240	541	BP	epoxygenase P450 pathway
+GO:0030199	8.30626369335387e-05	3	16	100233	541	BP	collagen fibril organization
+GO:0030336	0.0322744937406475	2	52	100197	541	BP	negative regulation of cell migration
+GO:0031334	0.0266936781253055	1	5	100244	541	BP	positive regulation of protein complex assembly
+GO:0032088	0.00867125510297309	2	26	100223	541	BP	negative regulation of NF-kappaB transcription factor activity
+GO:0032355	0.00143045817973048	3	41	100208	541	BP	response to estradiol
+GO:0032532	0.0214124585139136	1	4	100245	541	BP	regulation of microvillus length
+GO:0032868	0.00199675697858339	3	46	100203	541	BP	response to insulin
+GO:0032964	0.0053965625592276	1	1	100248	541	BP	collagen biosynthetic process
+GO:0033629	0.000599603121679598	2	7	100242	541	BP	negative regulation of cell adhesion mediated by integrin
+GO:0034605	0.000193350790352174	3	21	100228	541	BP	cellular response to heat
+GO:0035023	0.022612647878996	4	197	100052	541	BP	regulation of Rho protein signal transduction
+GO:0035855	0.00741643808353078	2	24	100225	541	BP	megakaryocyte development
+GO:0042572	0.00291343197112906	2	15	100234	541	BP	retinol metabolic process
+GO:0042574	0.000429825917981123	2	6	100243	541	BP	retinal metabolic process
+GO:0042742	0.000680046736997327	4	73	100176	541	BP	defense response to bacterium
+GO:0043009	0.0497127506869888	2	66	100183	541	BP	chordate embryonic development
+GO:0043086	0.0475355904641663	1	9	100240	541	BP	negative regulation of catalytic activity
+GO:0043542	0.00682262832559308	2	23	100226	541	BP	endothelial cell migration
+GO:0045766	0.0137419312312642	2	33	100216	541	BP	positive regulation of angiogenesis
+GO:0046427	0.000173168209757752	2	4	100245	541	BP	positive regulation of JAK-STAT cascade
+GO:0046466	2.90693458421401e-05	2	2	100247	541	BP	membrane lipid catabolic process
+GO:0046847	0.00741643808353078	2	24	100225	541	BP	filopodium assembly
+GO:0048514	0.00803273336207346	2	25	100224	541	BP	blood vessel morphogenesis
+GO:0051453	0.0475355904641663	1	9	100240	541	BP	regulation of intracellular pH
+GO:0051604	0.0161026359378748	1	3	100246	541	BP	protein maturation
+GO:0055113	0.00217978301826484	2	13	100236	541	BP	epiboly involved in gastrulation with mouth forming second
+GO:0055114	0.0457393386126188	2	63	100186	541	BP	oxidation-reduction process
+GO:0061304	0.000599603121679598	2	7	100242	541	BP	retinal blood vessel morphogenesis
+GO:0070301	0.0170899538550292	2	37	100212	541	BP	cellular response to hydrogen peroxide
+GO:0071407	0.00867125510297309	2	26	100223	541	BP	cellular response to organic cyclic compound
+GO:0071603	2.90693458421401e-05	2	2	100247	541	BP	endothelial cell-cell adhesion
+GO:0071774	0.0161026359378748	1	3	100246	541	BP	response to fibroblast growth factor
+GO:0071896	0.0423672529961738	1	8	100241	541	BP	protein localization to adherens junction
+GO:0097267	0.000173168209757752	2	4	100245	541	BP	omega-hydroxylase P450 pathway
+GO:1900029	0.0053965625592276	1	1	100248	541	BP	positive regulation of ruffle assembly
+GO:2000377	0.000173168209757752	2	4	100245	541	BP	regulation of reactive oxygen species metabolic process

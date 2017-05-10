@@ -1,0 +1,11 @@
+	Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+1	GO:0004497	0.000944497716660511	2	88	100161	51	MF	monooxygenase activity
+2	GO:0004869	0.0271115551887832	1	54	100195	51	MF	cysteine-type endopeptidase inhibitor activity
+3	GO:0005201	0.0181554246658588	1	36	100213	51	MF	extracellular matrix structural constituent
+4	GO:0005506	0.00930535039493552	2	284	99965	51	MF	iron ion binding
+5	GO:0005524	0.00092128893052054	7	3087	97162	51	MF	ATP binding
+6	GO:0005544	0.0201526349859307	1	40	100209	51	MF	calcium-dependent phospholipid binding
+7	GO:0016712	9.5103746786774e-05	2	28	100221	51	MF	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen
+8	GO:0019825	3.43400301250248e-05	2	17	100232	51	MF	oxygen binding
+9	GO:0020037	0.00605008203166354	2	227	100022	51	MF	heme binding
+10	GO:0070330	0.00017629790878029	2	38	100211	51	MF	aromatase activity

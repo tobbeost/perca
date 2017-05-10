@@ -1,0 +1,25 @@
+Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+GO:0001951	0.0116399090432524	1	4	100245	293	BP	intestinal D-glucose absorption
+GO:0006325	0.0401523335532071	1	14	100235	293	BP	chromatin organization
+GO:0006749	0.0429580936795996	1	15	100234	293	BP	glutathione metabolic process
+GO:0007009	0.00475285626345425	2	35	100214	293	BP	plasma membrane organization
+GO:0007018	0.0288026205553752	2	90	100159	293	BP	microtubule-based movement
+GO:0007051	0.0457556801128646	1	16	100233	293	BP	spindle organization
+GO:0007218	0.0116399090432524	1	4	100245	293	BP	neuropeptide signaling pathway
+GO:0009617	0.0202811414176184	1	7	100242	293	BP	response to bacterium
+GO:0010265	0.00583693160569987	1	2	100247	293	BP	SCF complex assembly
+GO:0015701	0.0231447876493837	1	8	100241	293	BP	bicarbonate transport
+GO:0031334	0.0145287265069693	1	5	100244	293	BP	positive regulation of protein complex assembly
+GO:0032355	0.000242616201892609	3	41	100208	293	BP	response to estradiol
+GO:0032532	0.0116399090432524	1	4	100245	293	BP	regulation of microvillus length
+GO:0032868	0.000341777946410521	3	46	100203	293	BP	response to insulin
+GO:0034605	3.16088335281646e-05	3	21	100228	293	BP	cellular response to heat
+GO:0042391	0.0485451165831577	1	17	100232	293	BP	regulation of membrane potential
+GO:0042742	2.63097818260387e-06	5	73	100176	293	BP	defense response to bacterium
+GO:0043086	0.0260000921377539	1	9	100240	293	BP	negative regulation of catalytic activity
+GO:0045087	0.0132481017456565	3	167	100082	293	BP	innate immune response
+GO:0045899	0.0345161969559361	1	12	100237	293	BP	positive regulation of RNA polymerase II transcriptional preinitiation complex assembly
+GO:0051453	0.0260000921377539	1	9	100240	293	BP	regulation of intracellular pH
+GO:0055113	0.037338375934676	1	13	100236	293	BP	epiboly involved in gastrulation with mouth forming second
+GO:0070830	0.0457556801128646	1	16	100233	293	BP	bicellular tight junction assembly
+GO:0071896	0.0231447876493837	1	8	100241	293	BP	protein localization to adherens junction

@@ -1,0 +1,6 @@
+	Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+1	GO:0003896	0.000847888756995041	1	1	100248	85	MF	DNA primase activity
+2	GO:0008479	0.00592032211359983	1	7	100242	85	MF	queuine tRNA-ribosyltransferase activity
+3	GO:0008757	0.0143178845382698	1	17	100232	85	MF	S-adenosylmethionine-dependent methyltransferase activity
+4	GO:0016829	0.0168234551252301	1	20	100229	85	MF	lyase activity
+5	GO:0051539	0.0472127808805745	1	57	100192	85	MF	4 iron, 4 sulfur cluster binding

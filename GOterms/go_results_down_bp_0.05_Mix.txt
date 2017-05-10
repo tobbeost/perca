@@ -1,0 +1,110 @@
+Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+GO:0000042	0.0259155961299449	1	11	100238	239	BP	protein targeting to Golgi
+GO:0000082	0.00356775367819913	2	37	100212	239	BP	G1/S transition of mitotic cell cycle
+GO:0001516	0.00476246732819063	1	2	100247	239	BP	prostaglandin biosynthetic process
+GO:0002011	0.0212539319479473	1	9	100240	239	BP	morphogenesis of an epithelial sheet
+GO:0002088	0.0305551497565233	1	13	100236	239	BP	lens development in camera-type eye
+GO:0002115	0.0165700522838819	1	7	100242	239	BP	store-operated calcium entry
+GO:0006000	0.000582254839932789	2	15	100234	239	BP	fructose metabolic process
+GO:0006003	0.000751789350846948	2	17	100232	239	BP	fructose 2,6-bisphosphate metabolic process
+GO:0006085	0.000505415631992267	2	14	100235	239	BP	acetyl-CoA biosynthetic process
+GO:0006598	0.00238406368143329	1	1	100248	239	BP	polyamine catabolic process
+GO:0006788	0.000117927343588761	2	7	100242	239	BP	heme oxidation
+GO:0006954	1.13900473416725e-06	6	138	100111	239	BP	inflammatory response
+GO:0006955	4.38346478459112e-07	8	279	99970	239	BP	immune response
+GO:0006986	0.0488943400175293	1	21	100228	239	BP	response to unfolded protein
+GO:0007052	0.00138541945718169	2	23	100226	239	BP	mitotic spindle organization
+GO:0007093	0.000844433812393016	2	18	100231	239	BP	mitotic cell cycle checkpoint
+GO:0007155	0.0174150660867647	3	227	100022	239	BP	cell adhesion
+GO:0007265	0.00773426717574349	2	55	100194	239	BP	Ras protein signal transduction
+GO:0007420	0.000461994262511299	4	148	100101	239	BP	brain development
+GO:0007566	0.0305551497565233	1	13	100236	239	BP	embryo implantation
+GO:0007602	0.0165700522838819	1	7	100242	239	BP	phototransduction
+GO:0007612	0.0328666677661025	1	14	100235	239	BP	learning
+GO:0007613	5.17999742270562e-05	3	30	100219	239	BP	memory
+GO:0008063	0.0259155961299449	1	11	100238	239	BP	Toll signaling pathway
+GO:0008217	0.0374732512181158	1	16	100233	239	BP	regulation of blood pressure
+GO:0009314	0.0212539319479473	1	9	100240	239	BP	response to radiation
+GO:0009750	0.00476246732819063	1	2	100247	239	BP	response to fructose
+GO:0010042	0.0282381302240503	1	12	100237	239	BP	response to manganese ion
+GO:0010226	0.00476246732819063	1	2	100247	239	BP	response to lithium ion
+GO:0010243	0.0165700522838819	1	7	100242	239	BP	response to organonitrogen compound
+GO:0010575	0.0259155961299449	1	11	100238	239	BP	positive regulation of vascular endothelial growth factor production
+GO:0010842	0.0351726972608288	1	15	100234	239	BP	retina layer formation
+GO:0010942	0.044342189181564	1	19	100230	239	BP	positive regulation of cell death
+GO:0016266	0.000367721094785119	2	12	100237	239	BP	O-glycan processing
+GO:0019233	0.00713522432150271	1	3	100246	239	BP	sensory perception of pain
+GO:0019371	0.00950234801109806	1	4	100245	239	BP	cyclooxygenase pathway
+GO:0019413	0.000201525072285403	2	9	100240	239	BP	acetate biosynthetic process
+GO:0019427	8.43666867434051e-05	2	6	100243	239	BP	acetyl-CoA biosynthetic process from acetate
+GO:0019542	0.000201525072285403	2	9	100240	239	BP	propionate biosynthetic process
+GO:0021540	0.00713522432150271	1	3	100246	239	BP	corpus callosum morphogenesis
+GO:0021957	0.00713522432150271	1	3	100246	239	BP	corticospinal tract morphogenesis
+GO:0030282	0.0259155961299449	1	11	100238	239	BP	bone mineralization
+GO:0030728	0.00238406368143329	1	1	100248	239	BP	ovulation
+GO:0031116	0.00476246732819063	1	2	100247	239	BP	positive regulation of microtubule polymerization
+GO:0031622	0.00238406368143329	1	1	100248	239	BP	positive regulation of fever generation
+GO:0031915	5.66003467581506e-06	2	2	100247	239	BP	positive regulation of synaptic plasticity
+GO:0032092	0.000256057415990547	3	51	100198	239	BP	positive regulation of protein binding
+GO:0032227	0.00476246732819063	1	2	100247	239	BP	negative regulation of synaptic transmission, dopaminergic
+GO:0032237	0.0305551497565233	1	13	100236	239	BP	activation of store-operated calcium channel activity
+GO:0032436	0.00773426717574349	2	55	100194	239	BP	positive regulation of proteasomal ubiquitin-dependent protein catabolic process
+GO:0032438	0.0259155961299449	1	11	100238	239	BP	melanosome organization
+GO:0032486	0.000251509837213651	2	10	100239	239	BP	Rap protein signal transduction
+GO:0033280	0.0351726972608288	1	15	100234	239	BP	response to vitamin D
+GO:0034454	0.0189147756284297	1	8	100241	239	BP	microtubule anchoring at centrosome
+GO:0035115	0.0259155961299449	1	11	100238	239	BP	embryonic forelimb morphogenesis
+GO:0035441	0.00476246732819063	1	2	100247	239	BP	cell migration involved in vasculogenesis
+GO:0035633	0.00713522432150271	1	3	100246	239	BP	maintenance of blood-brain barrier
+GO:0035646	0.0165700522838819	1	7	100242	239	BP	endosome to melanosome transport
+GO:0040020	0.0282381302240503	1	12	100237	239	BP	regulation of meiotic nuclear division
+GO:0042346	0.00950234801109806	1	4	100245	239	BP	positive regulation of NF-kappaB import into nucleus
+GO:0042446	3.38532527171784e-05	2	4	100245	239	BP	hormone biosynthetic process
+GO:0042633	0.00238406368143329	1	1	100248	239	BP	hair cycle
+GO:0043123	0.0169675425093013	2	83	100166	239	BP	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0045165	0.0282381302240503	1	12	100237	239	BP	cell fate commitment
+GO:0045686	0.00238406368143329	1	1	100248	239	BP	negative regulation of glial cell differentiation
+GO:0045743	0.0142197487209828	1	6	100243	239	BP	positive regulation of fibroblast growth factor receptor signaling pathway
+GO:0045786	0.0374732512181158	1	16	100233	239	BP	negative regulation of cell cycle
+GO:0045907	0.0142197487209828	1	6	100243	239	BP	positive regulation of vasoconstriction
+GO:0045986	0.00238406368143329	1	1	100248	239	BP	negative regulation of smooth muscle contraction
+GO:0045987	0.00476246732819063	1	2	100247	239	BP	positive regulation of smooth muscle contraction
+GO:0046208	0.00238406368143329	1	1	100248	239	BP	spermine catabolic process
+GO:0046599	1.69533415663607e-05	2	3	100246	239	BP	regulation of centriole replication
+GO:0046697	0.00476246732819063	1	2	100247	239	BP	decidualization
+GO:0048167	0.000367721094785119	2	12	100237	239	BP	regulation of synaptic plasticity
+GO:0048668	0.0212539319479473	1	9	100240	239	BP	collateral sprouting
+GO:0048755	0.0118638517152762	1	5	100244	239	BP	branching morphogenesis of a nerve
+GO:0048843	0.0351726972608288	1	15	100234	239	BP	negative regulation of axon extension involved in axon guidance
+GO:0050690	0.0351726972608288	1	15	100234	239	BP	regulation of defense response to virus by virus
+GO:0050772	0.0328666677661025	1	14	100235	239	BP	positive regulation of axonogenesis
+GO:0050773	0.00950234801109806	1	4	100245	239	BP	regulation of dendrite development
+GO:0050873	0.0189147756284297	1	8	100241	239	BP	brown fat cell differentiation
+GO:0050919	0.0351726972608288	1	15	100234	239	BP	negative chemotaxis
+GO:0051642	0.0212539319479473	1	9	100240	239	BP	centrosome localization
+GO:0051726	0.0321010076940641	2	117	100132	239	BP	regulation of cell cycle
+GO:0051926	0.00950234801109806	1	4	100245	239	BP	negative regulation of calcium ion transport
+GO:0051928	0.0212539319479473	1	9	100240	239	BP	positive regulation of calcium ion transport
+GO:0051968	0.00713522432150271	1	3	100246	239	BP	positive regulation of synaptic transmission, glutamatergic
+GO:0060173	0.0374732512181158	1	16	100233	239	BP	limb development
+GO:0060219	0.0142197487209828	1	6	100243	239	BP	camera-type eye photoreceptor cell differentiation
+GO:0060291	0.000251509837213651	2	10	100239	239	BP	long-term synaptic potentiation
+GO:0060292	0.000251509837213651	2	10	100239	239	BP	long term synaptic depression
+GO:0060326	4.75149779662917e-06	4	46	100203	239	BP	cell chemotaxis
+GO:0060828	0.044342189181564	1	19	100230	239	BP	regulation of canonical Wnt signaling pathway
+GO:0060900	0.00238406368143329	1	1	100248	239	BP	embryonic camera-type eye formation
+GO:0061000	5.63331943850385e-05	2	5	100244	239	BP	negative regulation of dendritic spine development
+GO:0061072	0.0189147756284297	1	8	100241	239	BP	iris morphogenesis
+GO:0061303	0.00238406368143329	1	1	100248	239	BP	cornea development in camera-type eye
+GO:0070542	0.0420579842773156	1	18	100231	239	BP	response to fatty acid
+GO:0071318	0.00950234801109806	1	4	100245	239	BP	cellular response to ATP
+GO:0071498	0.0118638517152762	1	5	100244	239	BP	cellular response to fluid shear stress
+GO:0071636	0.00238406368143329	1	1	100248	239	BP	positive regulation of transforming growth factor beta production
+GO:0090050	0.00476246732819063	1	2	100247	239	BP	positive regulation of cell migration involved in sprouting angiogenesis
+GO:0090129	0.0305551497565233	1	13	100236	239	BP	positive regulation of synapse maturation
+GO:0090222	0.00238406368143329	1	1	100248	239	BP	centrosome-templated microtubule nucleation
+GO:0090270	0.00238406368143329	1	1	100248	239	BP	regulation of fibroblast growth factor production
+GO:0090271	5.66003467581506e-06	2	2	100247	239	BP	positive regulation of fibroblast growth factor production
+GO:0090336	0.00476246732819063	1	2	100247	239	BP	positive regulation of brown fat cell differentiation
+GO:0090362	0.00238406368143329	1	1	100248	239	BP	positive regulation of platelet-derived growth factor production
+GO:2001137	0.00238406368143329	1	1	100248	239	BP	positive regulation of endocytic recycling

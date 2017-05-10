@@ -1,0 +1,5 @@
+	Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+1	GO:0003896	0.000528683577890932	1	1	100248	53	MF	DNA primase activity
+2	GO:0008757	0.00895041952070652	1	17	100232	53	MF	S-adenosylmethionine-dependent methyltransferase activity
+3	GO:0016829	0.0105217255509944	1	20	100229	53	MF	lyase activity
+4	GO:0051539	0.0297013391862122	1	57	100192	53	MF	4 iron, 4 sulfur cluster binding

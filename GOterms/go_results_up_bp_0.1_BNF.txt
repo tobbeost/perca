@@ -1,0 +1,44 @@
+Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+GO:0001525	0.00571173875996732	2	165	100084	68	BP	angiogenesis
+GO:0002930	4.53344080429898e-07	2	2	100247	68	BP	trabecular meshwork development
+GO:0006725	1.3594353015447e-06	2	3	100246	68	BP	cellular aromatic compound metabolic process
+GO:0006805	3.51905279914855e-05	2	13	100236	68	BP	xenobiotic metabolic process
+GO:0006809	6.78823111740365e-06	2	6	100243	68	BP	nitric oxide biosynthetic process
+GO:0007155	0.0105405633045843	2	227	100022	68	BP	cell adhesion
+GO:0007601	0.000365437195786719	2	41	100208	68	BP	visual perception
+GO:0008202	1.3594353015447e-06	2	3	100246	68	BP	steroid metabolic process
+GO:0008210	4.52747430929481e-06	2	5	100244	68	BP	estrogen metabolic process
+GO:0008285	0.00697524350603956	2	183	100066	68	BP	negative regulation of cell proliferation
+GO:0008543	0.0188223179311909	1	28	100221	68	BP	fibroblast growth factor receptor signaling pathway
+GO:0008631	6.12502546578594e-05	2	17	100232	68	BP	intrinsic apoptotic signaling pathway in response to oxidative stress
+GO:0009404	2.7176773041874e-06	2	4	100245	68	BP	toxin metabolic process
+GO:0009408	0.000297327066151247	2	37	100212	68	BP	response to heat
+GO:0009409	0.0161549432199275	1	24	100225	68	BP	response to cold
+GO:0009636	0.000974187637893402	2	67	100182	68	BP	response to toxic substance
+GO:0010575	2.48356207316092e-05	2	11	100238	68	BP	positive regulation of vascular endothelial growth factor production
+GO:0016125	3.51905279914855e-05	2	13	100236	68	BP	sterol metabolic process
+GO:0019369	9.49935310815714e-06	2	7	100242	68	BP	arachidonic acid metabolic process
+GO:0019373	1.62703170487455e-05	2	9	100240	68	BP	epoxygenase P450 pathway
+GO:0030199	5.40680579088926e-05	2	16	100233	68	BP	collagen fibril organization
+GO:0030336	0.000588097785370059	2	52	100197	68	BP	negative regulation of cell migration
+GO:0031101	0.00945520821658363	1	14	100235	68	BP	fin regeneration
+GO:0032088	0.000145793430172524	2	26	100223	68	BP	negative regulation of NF-kappaB transcription factor activity
+GO:0033629	9.49935310815714e-06	2	7	100242	68	BP	negative regulation of cell adhesion mediated by integrin
+GO:0042572	4.73303118815781e-05	2	15	100234	68	BP	retinol metabolic process
+GO:0042574	6.78823111740365e-06	2	6	100243	68	BP	retinal metabolic process
+GO:0043065	0.00584637638575862	2	167	100082	68	BP	positive regulation of apoptotic process
+GO:0043542	0.000113643996576128	2	23	100226	68	BP	endothelial cell migration
+GO:0045766	0.000236132412011024	2	33	100216	68	BP	positive regulation of angiogenesis
+GO:0046427	2.7176773041874e-06	2	4	100245	68	BP	positive regulation of JAK-STAT cascade
+GO:0046466	4.53344080429898e-07	2	2	100247	68	BP	membrane lipid catabolic process
+GO:0046677	0.00878276745864459	1	13	100236	68	BP	response to antibiotic
+GO:0046686	0.0134804240565575	1	20	100229	68	BP	response to cadmium ion
+GO:0046688	0.0141497246697945	1	21	100228	68	BP	response to copper ion
+GO:0048514	0.000134637580964224	2	25	100224	68	BP	blood vessel morphogenesis
+GO:0055114	0.000862018303214801	2	63	100186	68	BP	oxidation-reduction process
+GO:0061304	9.49935310815714e-06	2	7	100242	68	BP	retinal blood vessel morphogenesis
+GO:0070301	0.000297327066151247	2	37	100212	68	BP	cellular response to hydrogen peroxide
+GO:0071407	0.000145793430172524	2	26	100223	68	BP	cellular response to organic cyclic compound
+GO:0071603	4.53344080429898e-07	2	2	100247	68	BP	endothelial cell-cell adhesion
+GO:0097267	2.7176773041874e-06	2	4	100245	68	BP	omega-hydroxylase P450 pathway
+GO:2000377	2.7176773041874e-06	2	4	100245	68	BP	regulation of reactive oxygen species metabolic process

@@ -1,0 +1,5 @@
+Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+GO:0000027	0.0472127808805745	1	57	100192	85	BP	ribosomal large subunit assembly
+GO:0006400	0.0126439995617874	1	15	100234	85	BP	tRNA modification
+GO:0008616	0.00592032211359983	1	7	100242	85	BP	queuosine biosynthetic process
+GO:0032259	0.00928779767353194	1	11	100238	85	BP	methylation

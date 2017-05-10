@@ -1,0 +1,24 @@
+Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+GO:0001951	0.00993805804392955	1	4	100245	250	BP	intestinal D-glucose absorption
+GO:0006325	0.0343549366058949	1	14	100235	250	BP	chromatin organization
+GO:0006749	0.0367633894003135	1	15	100234	250	BP	glutathione metabolic process
+GO:0007009	0.00349076010601337	2	35	100214	250	BP	plasma membrane organization
+GO:0007018	0.0214810381127739	2	90	100159	250	BP	microtubule-based movement
+GO:0007051	0.0391658591476034	1	16	100233	250	BP	spindle organization
+GO:0007218	0.00993805804392955	1	4	100245	250	BP	neuropeptide signaling pathway
+GO:0010265	0.00498138674680904	1	2	100247	250	BP	SCF complex assembly
+GO:0015701	0.0197777422365365	1	8	100241	250	BP	bicarbonate transport
+GO:0031334	0.0124071635902313	1	5	100244	250	BP	positive regulation of protein complex assembly
+GO:0032355	0.000152286488807331	3	41	100208	250	BP	response to estradiol
+GO:0032532	0.00993805804392955	1	4	100245	250	BP	regulation of microvillus length
+GO:0032868	0.00021487118877621	3	46	100203	250	BP	response to insulin
+GO:0034605	1.97138019386407e-05	3	21	100228	250	BP	cellular response to heat
+GO:0042391	0.0415623606512311	1	17	100232	250	BP	regulation of membrane potential
+GO:0042742	3.58968380404641e-05	4	73	100176	250	BP	defense response to bacterium
+GO:0043086	0.0222224062406948	1	9	100240	250	BP	negative regulation of catalytic activity
+GO:0045899	0.0295200224788765	1	12	100237	250	BP	positive regulation of RNA polymerase II transcriptional preinitiation complex assembly
+GO:0051453	0.0222224062406948	1	9	100240	250	BP	regulation of intracellular pH
+GO:0055113	0.031940485924314	1	13	100236	250	BP	epiboly involved in gastrulation with mouth forming second
+GO:0070830	0.0391658591476034	1	16	100233	250	BP	bicellular tight junction assembly
+GO:0071896	0.0197777422365365	1	8	100241	250	BP	protein localization to adherens junction
+GO:0090004	0.0463375179590462	1	19	100230	250	BP	positive regulation of establishment of protein localization to plasma membrane
