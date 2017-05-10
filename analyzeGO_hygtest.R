@@ -48,7 +48,7 @@ names(output.list)<-namevec
 gomap<-read.table('wholetranscript/west_coast/go_bp__westcoast.txt',sep='\t',quote="",comment.char="")
 goannot<-read.table('all_GOterms_new.txt',sep='\t',quote="",comment.char="",header=TRUE)
 goannot<-goannot[,1:3]
-fdr.cutoff<-0.05
+fdr.cutoff<-0.1
 #up for all
 #gomatrix<-go.analysis2(output.list,namevec,gomap,fdr.cutoff=0.05,direction="up")
 totalNumberofGenes<-nrow(output.list[[length(output.list)]])#background
