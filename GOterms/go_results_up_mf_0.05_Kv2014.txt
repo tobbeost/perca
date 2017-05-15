@@ -1,0 +1,198 @@
+	Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+1	GO:0000146	0.0124411055345536	3	12	65526	2769	MF	microfilament motor activity
+2	GO:0000246	0.0422502975373067	1	1	65537	2769	MF	delta24(24-1) sterol reductase activity
+3	GO:0000250	0.0422502975373067	1	1	65537	2769	MF	lanosterol synthase activity
+4	GO:0000339	0.00231959838703615	3	7	65531	2769	MF	RNA cap binding
+5	GO:0000975	0.00486286587932773	4	17	65521	2769	MF	regulatory region DNA binding
+6	GO:0000978	0.0211597925867096	7	66	65472	2769	MF	RNA polymerase II core promoter proximal region sequence-specific DNA binding
+7	GO:0000983	0.016385019475471	2	5	65533	2769	MF	transcription factor activity, RNA polymerase II core promoter sequence-specific
+8	GO:0001102	0.0440210493617277	3	19	65519	2769	MF	RNA polymerase II activating transcription factor binding
+9	GO:0001540	0.0325227365425519	2	7	65531	2769	MF	beta-amyloid binding
+10	GO:0001786	0.00384614069002907	4	16	65522	2769	MF	phosphatidylserine binding
+11	GO:0001848	6.51006444529321e-12	12	21	65517	2769	MF	complement binding
+12	GO:0001872	2.90254991013253e-12	12	20	65518	2769	MF	(1->3)-beta-D-glucan binding
+13	GO:0001965	0.00520272612373565	2	3	65535	2769	MF	G-protein alpha-subunit binding
+14	GO:0001968	0.0422502975373067	1	1	65537	2769	MF	fibronectin binding
+15	GO:0002060	0.00178447020131017	2	2	65536	2769	MF	purine nucleobase binding
+16	GO:0003690	0.006045360588389	4	18	65520	2769	MF	double-stranded DNA binding
+17	GO:0003713	0.0498860303119189	11	148	65390	2769	MF	transcription coactivator activity
+18	GO:0003725	3.20657898442601e-09	15	53	65485	2769	MF	double-stranded RNA binding
+19	GO:0003726	7.5342240097431e-05	3	3	65535	2769	MF	double-stranded RNA adenosine deaminase activity
+20	GO:0003727	0.00122113814795696	5	20	65518	2769	MF	single-stranded RNA binding
+21	GO:0003746	0.0404564696719446	5	45	65493	2769	MF	translation elongation factor activity
+22	GO:0003747	0.0421653472316038	2	8	65530	2769	MF	translation release factor activity
+23	GO:0003756	8.86012944042074e-11	11	20	65518	2769	MF	protein disulfide isomerase activity
+24	GO:0003796	1.13743185481517e-06	7	15	65523	2769	MF	lysozyme activity
+25	GO:0003823	2.76702568015163e-11	12	23	65515	2769	MF	antigen binding
+26	GO:0003827	0.0422502975373067	1	1	65537	2769	MF	alpha-1,3-mannosylglycoprotein 2-beta-N-acetylglucosaminyltransferase activity
+27	GO:0003837	0.00178447020131017	2	2	65536	2769	MF	beta-ureidopropionase activity
+28	GO:0003841	0.0238932684981188	2	6	65532	2769	MF	1-acylglycerol-3-phosphate O-acyltransferase activity
+29	GO:0003846	0.00178447020131017	2	2	65536	2769	MF	2-acylglycerol O-acyltransferase activity
+30	GO:0003867	5.65879353161205e-09	6	6	65532	2769	MF	4-aminobutyrate transaminase activity
+31	GO:0003878	0.000291829173888946	3	4	65534	2769	MF	ATP citrate synthase activity
+32	GO:0003924	0.00658037662339239	18	222	65316	2769	MF	GTPase activity
+33	GO:0003950	1.6762421725772e-06	12	53	65485	2769	MF	NAD+ ADP-ribosyltransferase activity
+34	GO:0003985	0.00520272612373565	2	3	65535	2769	MF	acetyl-CoA C-acetyltransferase activity
+35	GO:0003987	0.00136852143017539	3	6	65532	2769	MF	acetate-CoA ligase activity
+36	GO:0004038	0.0325227365425519	2	7	65531	2769	MF	allantoinase activity
+37	GO:0004089	0.016385019475471	2	5	65533	2769	MF	carbonate dehydratase activity
+38	GO:0004115	0.000291829173888946	3	4	65534	2769	MF	3',5'-cyclic-AMP phosphodiesterase activity
+39	GO:0004127	0.00178447020131017	2	2	65536	2769	MF	cytidylate kinase activity
+40	GO:0004142	0.0422502975373067	1	1	65537	2769	MF	diacylglycerol cholinephosphotransferase activity
+41	GO:0004144	0.0101136230735823	2	4	65534	2769	MF	diacylglycerol O-acyltransferase activity
+42	GO:0004175	0.00095522813131859	6	28	65510	2769	MF	endopeptidase activity
+43	GO:0004252	0.000661649066594872	17	165	65373	2769	MF	serine-type endopeptidase activity
+44	GO:0004322	0.0193286016418829	3	14	65524	2769	MF	ferroxidase activity
+45	GO:0004329	0.0101136230735823	2	4	65534	2769	MF	formate-tetrahydrofolate ligase activity
+46	GO:0004334	0.00178447020131017	2	2	65536	2769	MF	fumarylacetoacetase activity
+47	GO:0004345	0.000100418821027708	4	7	65531	2769	MF	glucose-6-phosphate dehydrogenase activity
+48	GO:0004386	0.0171156247000305	11	125	65413	2769	MF	helicase activity
+49	GO:0004420	0.00520272612373565	2	3	65535	2769	MF	hydroxymethylglutaryl-CoA reductase (NADPH) activity
+50	GO:0004427	0.00070652847074938	3	5	65533	2769	MF	inorganic diphosphatase activity
+51	GO:0004450	0.0421653472316038	2	8	65530	2769	MF	isocitrate dehydrogenase (NADP+) activity
+52	GO:0004452	0.00178447020131017	2	2	65536	2769	MF	isopentenyl-diphosphate delta-isomerase activity
+53	GO:0004475	0.00178447020131017	2	2	65536	2769	MF	mannose-1-phosphate guanylyltransferase activity
+54	GO:0004506	0.0422502975373067	1	1	65537	2769	MF	squalene monooxygenase activity
+55	GO:0004514	0.0421653472316038	2	8	65530	2769	MF	nicotinate-nucleotide diphosphorylase (carboxylating) activity
+56	GO:0004563	0.0101136230735823	2	4	65534	2769	MF	beta-N-acetylhexosaminidase activity
+57	GO:0004579	0.000100418821027708	4	7	65531	2769	MF	dolichyl-diphosphooligosaccharide-protein glycotransferase activity
+58	GO:0004586	0.00178447020131017	2	2	65536	2769	MF	ornithine decarboxylase activity
+59	GO:0004591	0.0421653472316038	2	8	65530	2769	MF	oxoglutarate dehydrogenase (succinyl-transferring) activity
+60	GO:0004601	0.0193286016418829	3	14	65524	2769	MF	peroxidase activity
+61	GO:0004620	6.74940228574822e-06	5	8	65530	2769	MF	phospholipase activity
+62	GO:0004630	0.0421653472316038	2	8	65530	2769	MF	phospholipase D activity
+63	GO:0004631	0.00178447020131017	2	2	65536	2769	MF	phosphomevalonate kinase activity
+64	GO:0004647	0.0422502975373067	1	1	65537	2769	MF	phosphoserine phosphatase activity
+65	GO:0004648	0.0422502975373067	1	1	65537	2769	MF	O-phospho-L-serine:2-oxoglutarate aminotransferase activity
+66	GO:0004661	0.0422502975373067	1	1	65537	2769	MF	protein geranylgeranyltransferase activity
+67	GO:0004662	0.0422502975373067	1	1	65537	2769	MF	CAAX-protein geranylgeranyltransferase activity
+68	GO:0004666	0.00178447020131017	2	2	65536	2769	MF	prostaglandin-endoperoxide synthase activity
+69	GO:0004683	0.00895030483098649	4	20	65518	2769	MF	calmodulin-dependent protein kinase activity
+70	GO:0004708	0.00231959838703615	3	7	65531	2769	MF	MAP kinase kinase activity
+71	GO:0004715	0.00296908012783845	9	71	65467	2769	MF	non-membrane spanning protein tyrosine kinase activity
+72	GO:0004742	0.0422502975373067	1	1	65537	2769	MF	dihydrolipoyllysine-residue acetyltransferase activity
+73	GO:0004758	0.0101136230735823	2	4	65534	2769	MF	serine C-palmitoyltransferase activity
+74	GO:0004772	0.00178447020131017	2	2	65536	2769	MF	sterol O-acyltransferase activity
+75	GO:0004782	2.38589491055425e-10	7	7	65531	2769	MF	sulfinoalanine decarboxylase activity
+76	GO:0004806	0.00359490447539604	3	8	65530	2769	MF	triglyceride lipase activity
+77	GO:0004830	0.0422502975373067	1	1	65537	2769	MF	tryptophan-tRNA ligase activity
+78	GO:0004857	0.0421653472316038	2	8	65530	2769	MF	enzyme inhibitor activity
+79	GO:0004860	0.000100418821027708	4	7	65531	2769	MF	protein kinase inhibitor activity
+80	GO:0004866	3.56911797580184e-27	51	186	65352	2769	MF	endopeptidase inhibitor activity
+81	GO:0004879	0.0134433826870317	5	34	65504	2769	MF	RNA polymerase II transcription factor activity, ligand-activated sequence-specific DNA binding
+82	GO:0004952	0.00070652847074938	3	5	65533	2769	MF	dopamine neurotransmitter receptor activity
+83	GO:0004991	0.0422502975373067	1	1	65537	2769	MF	parathyroid hormone receptor activity
+84	GO:0005047	0.00231959838703615	3	7	65531	2769	MF	signal recognition particle binding
+85	GO:0005087	0.016385019475471	2	5	65533	2769	MF	Ran guanyl-nucleotide exchange factor activity
+86	GO:0005092	0.00136852143017539	3	6	65532	2769	MF	GDP-dissociation inhibitor activity
+87	GO:0005102	0.000498833077022222	12	92	65446	2769	MF	receptor binding
+88	GO:0005178	0.0403452022723472	4	31	65507	2769	MF	integrin binding
+89	GO:0005200	0.00471330276729228	10	90	65448	2769	MF	structural constituent of cytoskeleton
+90	GO:0005201	0.0171749167234056	4	24	65514	2769	MF	extracellular matrix structural constituent
+91	GO:0005381	0.00070652847074938	3	5	65533	2769	MF	iron ion transmembrane transporter activity
+92	GO:0005506	0.0123525803526824	15	185	65353	2769	MF	iron ion binding
+93	GO:0005516	0.0234110536276342	5	39	65499	2769	MF	calmodulin binding
+94	GO:0005518	0.0421653472316038	2	8	65530	2769	MF	collagen binding
+95	GO:0005525	3.36722559385356e-08	54	567	64971	2769	MF	GTP binding
+96	GO:0005546	0.00895030483098649	4	20	65518	2769	MF	phosphatidylinositol-4,5-bisphosphate binding
+97	GO:0005547	0.00238506626298699	5	23	65515	2769	MF	phosphatidylinositol-3,4,5-trisphosphate binding
+98	GO:0008009	1.53629759819905e-05	4	5	65533	2769	MF	chemokine activity
+99	GO:0008022	0.0406704876379162	6	60	65478	2769	MF	protein C-terminus binding
+100	GO:0008144	0.000778172103548392	6	27	65511	2769	MF	drug binding
+101	GO:0008171	1.53629759819905e-05	4	5	65533	2769	MF	O-methyltransferase activity
+102	GO:0008184	0.0238932684981188	2	6	65532	2769	MF	glycogen phosphorylase activity
+103	GO:0008186	0.0238932684981188	2	6	65532	2769	MF	RNA-dependent ATPase activity
+104	GO:0008270	0.0373226536635177	78	1502	64036	2769	MF	zinc ion binding
+105	GO:0008289	0.0204256165087267	10	112	65426	2769	MF	lipid binding
+106	GO:0008312	0.0325227365425519	2	7	65531	2769	MF	7S RNA binding
+107	GO:0008398	0.0422502975373067	1	1	65537	2769	MF	sterol 14-demethylase activity
+108	GO:0008494	0.0238932684981188	2	6	65532	2769	MF	translation activator activity
+109	GO:0008509	0.0325227365425519	2	7	65531	2769	MF	anion transmembrane transporter activity
+110	GO:0008521	0.0422502975373067	1	1	65537	2769	MF	acetyl-CoA transporter activity
+111	GO:0008745	3.17992883359265e-06	4	4	65534	2769	MF	N-acetylmuramoyl-L-alanine amidase activity
+112	GO:0008970	0.00178447020131017	2	2	65536	2769	MF	phosphatidylcholine 1-acylhydrolase activity
+113	GO:0009041	0.00178447020131017	2	2	65536	2769	MF	uridylate kinase activity
+114	GO:0009931	1.53629759819905e-05	4	5	65533	2769	MF	calcium-dependent protein serine/threonine kinase activity
+115	GO:0015095	0.0325227365425519	2	7	65531	2769	MF	magnesium ion transmembrane transporter activity
+116	GO:0015232	1.46540548974229e-05	5	9	65529	2769	MF	heme transporter activity
+117	GO:0015248	0.0238932684981188	2	6	65532	2769	MF	sterol transporter activity
+118	GO:0015327	0.00178447020131017	2	2	65536	2769	MF	cystine:glutamate antiporter activity
+119	GO:0015485	2.46256571756675e-07	10	30	65508	2769	MF	cholesterol binding
+120	GO:0016208	0.000396197727124745	5	16	65522	2769	MF	AMP binding
+121	GO:0016298	0.0238932684981188	2	6	65532	2769	MF	lipase activity
+122	GO:0016702	0.00226326675095894	4	14	65524	2769	MF	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen
+123	GO:0016757	0.0403452022723472	4	31	65507	2769	MF	transferase activity, transferring glycosyl groups
+124	GO:0016817	0.00231959838703615	3	7	65531	2769	MF	hydrolase activity, acting on acid anhydrides
+125	GO:0016844	0.0422502975373067	1	1	65537	2769	MF	strictosidine synthase activity
+126	GO:0016849	0.0422502975373067	1	1	65537	2769	MF	phosphorus-oxygen lyase activity
+127	GO:0016874	0.00154334958134784	25	308	65230	2769	MF	ligase activity
+128	GO:0016971	0.0422502975373067	1	1	65537	2769	MF	flavin-linked sulfhydryl oxidase activity
+129	GO:0017081	0.0238932684981188	2	6	65532	2769	MF	chloride channel regulator activity
+130	GO:0017112	0.000306775796956294	6	23	65515	2769	MF	Rab guanyl-nucleotide exchange factor activity
+131	GO:0017113	7.5342240097431e-05	3	3	65535	2769	MF	dihydropyrimidine dehydrogenase (NADP+) activity
+132	GO:0017127	0.0234148383150279	3	15	65523	2769	MF	cholesterol transporter activity
+133	GO:0017172	0.00178447020131017	2	2	65536	2769	MF	cysteine dioxygenase activity
+134	GO:0019842	0.00178447020131017	2	2	65536	2769	MF	vitamin binding
+135	GO:0019871	0.0325227365425519	2	7	65531	2769	MF	sodium channel inhibitor activity
+136	GO:0019900	0.00895030483098649	4	20	65518	2769	MF	kinase binding
+137	GO:0019904	0.0141938382122932	7	61	65477	2769	MF	protein domain specific binding
+138	GO:0030169	0.0101136230735823	2	4	65534	2769	MF	low-density lipoprotein particle binding
+139	GO:0030170	1.04896836203941e-08	19	93	65445	2769	MF	pyridoxal phosphate binding
+140	GO:0030246	0.00684679675147011	17	206	65332	2769	MF	carbohydrate binding
+141	GO:0030332	0.016385019475471	2	5	65533	2769	MF	cyclin binding
+142	GO:0030729	0.0422502975373067	1	1	65537	2769	MF	acetoacetate-CoA ligase activity
+143	GO:0031369	0.0325227365425519	2	7	65531	2769	MF	translation initiation factor binding
+144	GO:0031404	0.0422502975373067	1	1	65537	2769	MF	chloride ion binding
+145	GO:0031624	0.0171749167234056	4	24	65514	2769	MF	ubiquitin conjugating enzyme binding
+146	GO:0031698	0.0101136230735823	2	4	65534	2769	MF	beta-2 adrenergic receptor binding
+147	GO:0032052	0.016385019475471	2	5	65533	2769	MF	bile acid binding
+148	GO:0032145	1.34167046493174e-07	5	5	65533	2769	MF	succinate-semialdehyde dehydrogenase binding
+149	GO:0033919	7.5342240097431e-05	3	3	65535	2769	MF	glucan 1,3-alpha-glucosidase activity
+150	GO:0033925	0.0422502975373067	1	1	65537	2769	MF	mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase activity
+151	GO:0034185	0.00167231009887801	4	13	65525	2769	MF	apolipoprotein binding
+152	GO:0034186	0.016385019475471	2	5	65533	2769	MF	apolipoprotein A-I binding
+153	GO:0034188	0.0101136230735823	2	4	65534	2769	MF	apolipoprotein A-I receptor activity
+154	GO:0034602	0.0101136230735823	2	4	65534	2769	MF	oxoglutarate dehydrogenase (NAD+) activity
+155	GO:0034736	0.00178447020131017	2	2	65536	2769	MF	cholesterol O-acyltransferase activity
+156	GO:0035255	0.0421653472316038	2	8	65530	2769	MF	ionotropic glutamate receptor binding
+157	GO:0035257	0.0382394844353044	3	18	65520	2769	MF	nuclear hormone receptor binding
+158	GO:0042171	0.00178447020131017	2	2	65536	2769	MF	lysophosphatidic acid acyltransferase activity
+159	GO:0042277	0.0403452022723472	4	31	65507	2769	MF	peptide binding
+160	GO:0042282	0.00520272612373565	2	3	65535	2769	MF	hydroxymethylglutaryl-CoA reductase activity
+161	GO:0042577	0.0101136230735823	2	4	65534	2769	MF	lipid phosphatase activity
+162	GO:0042605	0.00089161733110033	9	60	65478	2769	MF	peptide antigen binding
+163	GO:0042626	0.00994116721759072	7	57	65481	2769	MF	ATPase activity, coupled to transmembrane movement of substances
+164	GO:0042803	0.0147770134908086	15	189	65349	2769	MF	protein homodimerization activity
+165	GO:0043015	0.0421653472316038	2	8	65530	2769	MF	gamma-tubulin binding
+166	GO:0044325	0.00351100373616022	5	25	65513	2769	MF	ion channel binding
+167	GO:0045294	0.000291829173888946	3	4	65534	2769	MF	alpha-catenin binding
+168	GO:0045296	0.0193286016418829	3	14	65524	2769	MF	cadherin binding
+169	GO:0046332	0.0124411055345536	3	12	65526	2769	MF	SMAD binding
+170	GO:0046872	5.83108967982138e-06	98	1460	64078	2769	MF	metal ion binding
+171	GO:0046983	0.0106921823100453	4	21	65517	2769	MF	protein dimerization activity
+172	GO:0047280	0.00520272612373565	2	3	65535	2769	MF	nicotinamide phosphoribosyltransferase activity
+173	GO:0047298	1.34167046493174e-07	5	5	65533	2769	MF	(S)-3-amino-2-methylpropionate transaminase activity
+174	GO:0047750	0.00178447020131017	2	2	65536	2769	MF	cholestenol delta-isomerase activity
+175	GO:0048037	5.00379132651125e-05	5	11	65527	2769	MF	cofactor binding
+176	GO:0050252	0.00178447020131017	2	2	65536	2769	MF	retinol O-fatty-acyltransferase activity
+177	GO:0050265	0.0325227365425519	2	7	65531	2769	MF	RNA uridylyltransferase activity
+178	GO:0050510	0.0422502975373067	1	1	65537	2769	MF	N-acetylgalactosaminyl-proteoglycan 3-beta-glucuronosyltransferase activity
+179	GO:0050614	0.0422502975373067	1	1	65537	2769	MF	delta24-sterol reductase activity
+180	GO:0050661	0.0197775668162143	4	25	65513	2769	MF	NADP binding
+181	GO:0050700	0.0422502975373067	1	1	65537	2769	MF	CARD domain binding
+182	GO:0050815	0.00178447020131017	2	2	65536	2769	MF	phosphoserine binding
+183	GO:0050816	7.5342240097431e-05	3	3	65535	2769	MF	phosphothreonine binding
+184	GO:0050840	0.00722911083050201	3	10	65528	2769	MF	extracellular matrix binding
+185	GO:0050897	0.0325227365425519	2	7	65531	2769	MF	cobalt ion binding
+186	GO:0051020	0.0171749167234056	4	24	65514	2769	MF	GTPase binding
+187	GO:0051082	0.00384614069002907	4	16	65522	2769	MF	unfolded protein binding
+188	GO:0051087	0.006045360588389	4	18	65520	2769	MF	chaperone binding
+189	GO:0051117	0.0382394844353044	3	18	65520	2769	MF	ATPase binding
+190	GO:0051536	0.00122113814795696	5	20	65518	2769	MF	iron-sulfur cluster binding
+191	GO:0051539	0.00484415204949961	7	50	65488	2769	MF	4 iron, 4 sulfur cluster binding
+192	GO:0051920	0.0421653472316038	2	8	65530	2769	MF	peroxiredoxin activity
+193	GO:0070063	0.000100418821027708	4	7	65531	2769	MF	RNA polymerase binding
+194	GO:0070290	0.0238932684981188	2	6	65532	2769	MF	N-acylphosphatidylethanolamine-specific phospholipase D activity
+195	GO:0070402	0.00520272612373565	2	3	65535	2769	MF	NADPH binding
+196	GO:0070411	0.00963025431674739	3	11	65527	2769	MF	I-SMAD binding
+197	GO:0071566	0.00178447020131017	2	2	65536	2769	MF	UFM1 activating enzyme activity

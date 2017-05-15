@@ -1,0 +1,131 @@
+Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+GO:0000038	0.0132880098432269	2	6	65532	2034	BP	very long-chain fatty acid metabolic process
+GO:0000045	0.0166511528674842	4	32	65506	2034	BP	autophagosome assembly
+GO:0000422	0.00694919394470438	4	25	65513	2034	BP	mitophagy
+GO:0001501	0.00598230300604371	4	24	65514	2034	BP	skeletal system development
+GO:0001561	0.0439648546564772	2	11	65527	2034	BP	fatty acid alpha-oxidation
+GO:0001569	0.00675965920217898	3	13	65525	2034	BP	patterning of blood vessels
+GO:0001756	0.00329687630249237	5	33	65505	2034	BP	somitogenesis
+GO:0002072	0.0310354298269707	1	1	65537	2034	BP	optic cup morphogenesis involved in camera-type eye development
+GO:0002933	0.0132880098432269	2	6	65532	2034	BP	lipid hydroxylation
+GO:0003151	0.00532164050126533	3	12	65526	2034	BP	outflow tract morphogenesis
+GO:0003215	0.0310354298269707	1	1	65537	2034	BP	cardiac right ventricle morphogenesis
+GO:0003279	0.0367139647683727	2	10	65528	2034	BP	cardiac septum development
+GO:0003323	4.53755989418486e-05	5	14	65524	2034	BP	type B pancreatic cell development
+GO:0003350	0.0310354298269707	1	1	65537	2034	BP	pulmonary myocardium development
+GO:0006021	0.0310354298269707	1	1	65537	2034	BP	inositol biosynthetic process
+GO:0006081	0.00904414131248493	2	5	65533	2034	BP	cellular aldehyde metabolic process
+GO:0006084	0.00554040516439133	2	4	65534	2034	BP	acetyl-CoA metabolic process
+GO:0006097	0.0182227406929269	2	7	65531	2034	BP	glyoxylate cycle
+GO:0006103	0.0456332096728396	3	26	65512	2034	BP	2-oxoglutarate metabolic process
+GO:0006114	0.0310354298269707	1	1	65537	2034	BP	glycerol biosynthetic process
+GO:0006183	0.0238014065649969	2	8	65530	2034	BP	GTP biosynthetic process
+GO:0006189	0.000374919583814146	4	12	65526	2034	BP	'de novo' IMP biosynthetic process
+GO:0006210	0.000284800942250939	3	5	65533	2034	BP	thymine catabolic process
+GO:0006213	0.0310354298269707	1	1	65537	2034	BP	pyrimidine nucleoside metabolic process
+GO:0006228	0.0238014065649969	2	8	65530	2034	BP	UTP biosynthetic process
+GO:0006241	0.0367139647683727	2	10	65528	2034	BP	CTP biosynthetic process
+GO:0006298	0.0171864372798549	3	18	65520	2034	BP	mismatch repair
+GO:0006497	0.000959600973840845	4	15	65523	2034	BP	protein lipidation
+GO:0006520	0.000721392524597615	4	14	65524	2034	BP	cellular amino acid metabolic process
+GO:0006547	0.0310354298269707	1	1	65537	2034	BP	histidine metabolic process
+GO:0006558	2.98505514658859e-05	3	3	65535	2034	BP	L-phenylalanine metabolic process
+GO:0006559	6.33786117275852e-06	5	10	65528	2034	BP	L-phenylalanine catabolic process
+GO:0006571	2.98505514658859e-05	3	3	65535	2034	BP	tyrosine biosynthetic process
+GO:0006574	0.000102845740895772	4	9	65529	2034	BP	valine catabolic process
+GO:0006579	6.87563379636164e-08	6	9	65529	2034	BP	amino-acid betaine catabolic process
+GO:0006682	0.0310354298269707	1	1	65537	2034	BP	galactosylceramide biosynthetic process
+GO:0006744	0.0238014065649969	2	8	65530	2034	BP	ubiquinone biosynthetic process
+GO:0006768	0.0439648546564772	2	11	65527	2034	BP	biotin metabolic process
+GO:0006826	6.63192891787266e-05	5	15	65523	2034	BP	iron ion transport
+GO:0006853	0.00532164050126533	3	12	65526	2034	BP	carnitine shuttle
+GO:0006879	0.0176508685178655	5	49	65489	2034	BP	cellular iron ion homeostasis
+GO:0007154	0.0171864372798549	3	18	65520	2034	BP	cell communication
+GO:0007193	0.0367139647683727	2	10	65528	2034	BP	adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway
+GO:0007194	0.0310354298269707	1	1	65537	2034	BP	negative regulation of adenylate cyclase activity
+GO:0007205	0.00408496027190253	3	11	65527	2034	BP	protein kinase C-activating G-protein coupled receptor signaling pathway
+GO:0007231	0.0310354298269707	1	1	65537	2034	BP	osmosensory signaling pathway
+GO:0007354	2.98505514658859e-05	3	3	65535	2034	BP	zygotic determination of anterior/posterior axis, embryo
+GO:0008152	0.0134528828576134	10	142	65396	2034	BP	metabolic process
+GO:0008637	0.0299793250851023	2	9	65529	2034	BP	apoptotic mitochondrial changes
+GO:0009063	0.000962739045702904	2	2	65536	2034	BP	cellular amino acid catabolic process
+GO:0009086	3.99716458483704e-08	7	13	65525	2034	BP	methionine biosynthetic process
+GO:0009100	0.000951182718976963	3	7	65531	2034	BP	glycoprotein metabolic process
+GO:0009113	0.000284800942250939	3	5	65533	2034	BP	purine nucleobase biosynthetic process
+GO:0009308	0.00904414131248493	2	5	65533	2034	BP	amine metabolic process
+GO:0009890	0.00282851603417694	2	3	65535	2034	BP	negative regulation of biosynthetic process
+GO:0010216	0.00554040516439133	2	4	65534	2034	BP	maintenance of DNA methylation
+GO:0010884	0.0182227406929269	2	7	65531	2034	BP	positive regulation of lipid storage
+GO:0010906	0.0439648546564772	2	11	65527	2034	BP	regulation of glucose metabolic process
+GO:0015015	0.0310354298269707	1	1	65537	2034	BP	heparan sulfate proteoglycan biosynthetic process, enzymatic modification
+GO:0015909	0.00554040516439133	2	4	65534	2034	BP	long-chain fatty acid transport
+GO:0016486	0.000721392524597615	4	14	65524	2034	BP	peptide hormone processing
+GO:0018126	0.00011662690396255	3	4	65534	2034	BP	protein hydroxylation
+GO:0019484	2.98505514658859e-05	3	3	65535	2034	BP	beta-alanine catabolic process
+GO:0019695	0.00554040516439133	2	4	65534	2034	BP	choline metabolic process
+GO:0021785	0.000951182718976963	3	7	65531	2034	BP	branchiomotor neuron axon guidance
+GO:0030510	0.00011662690396255	3	4	65534	2034	BP	regulation of BMP signaling pathway
+GO:0030855	0.00023151798592895	5	19	65519	2034	BP	epithelial cell differentiation
+GO:0031017	0.00300980449153634	4	20	65518	2034	BP	exocrine pancreas development
+GO:0031018	1.31976335009126e-05	4	6	65532	2034	BP	endocrine pancreas development
+GO:0031061	0.00011662690396255	3	4	65534	2034	BP	negative regulation of histone methylation
+GO:0031325	0.00282851603417694	2	3	65535	2034	BP	positive regulation of cellular metabolic process
+GO:0031999	0.00282851603417694	2	3	65535	2034	BP	negative regulation of fatty acid beta-oxidation
+GO:0032020	0.0310354298269707	1	1	65537	2034	BP	ISG15-protein conjugation
+GO:0032355	0.000443154611715034	7	45	65493	2034	BP	response to estradiol
+GO:0032455	0.00148674307671706	3	8	65530	2034	BP	nerve growth factor processing
+GO:0032868	0.00010395428522906	7	36	65502	2034	BP	response to insulin
+GO:0032902	0.000556404251000965	3	6	65532	2034	BP	nerve growth factor production
+GO:0032940	0.0021786917446277	3	9	65529	2034	BP	secretion by cell
+GO:0034497	0.00124813647030393	4	16	65522	2034	BP	protein localization to pre-autophagosomal structure
+GO:0034605	6.46574081700018e-07	7	18	65520	2034	BP	cellular response to heat
+GO:0035050	0.000959600973840845	4	15	65523	2034	BP	embryonic heart tube development
+GO:0035118	0.000959600973840845	4	15	65523	2034	BP	embryonic pectoral fin morphogenesis
+GO:0035567	0.0182227406929269	2	7	65531	2034	BP	non-canonical Wnt signaling pathway
+GO:0035874	0.000962739045702904	2	2	65536	2034	BP	cellular response to copper ion starvation
+GO:0042558	0.00011662690396255	3	4	65534	2034	BP	pteridine-containing compound metabolic process
+GO:0042572	5.85821227434695e-05	4	8	65530	2034	BP	retinol metabolic process
+GO:0042574	4.51087843695709e-06	4	5	65533	2034	BP	retinal metabolic process
+GO:0042694	0.00554040516439133	2	4	65534	2034	BP	muscle cell fate specification
+GO:0042742	0.00104440394403573	6	38	65500	2034	BP	defense response to bacterium
+GO:0043010	0.0367139647683727	2	10	65528	2034	BP	camera-type eye development
+GO:0043086	0.0299793250851023	2	9	65529	2034	BP	negative regulation of catalytic activity
+GO:0043390	0.0132880098432269	2	6	65532	2034	BP	aflatoxin B1 metabolic process
+GO:0044257	0.0299793250851023	2	9	65529	2034	BP	cellular protein catabolic process
+GO:0044275	0.000962739045702904	2	2	65536	2034	BP	cellular carbohydrate catabolic process
+GO:0045333	0.00904414131248493	2	5	65533	2034	BP	cellular respiration
+GO:0045892	0.0389685557924414	9	146	65392	2034	BP	negative regulation of transcription, DNA-templated
+GO:0046034	0.0295991962457108	3	22	65516	2034	BP	ATP metabolic process
+GO:0046084	0.0310354298269707	1	1	65537	2034	BP	adenine biosynthetic process
+GO:0046146	2.98505514658859e-05	3	3	65535	2034	BP	tetrahydrobiopterin metabolic process
+GO:0046903	0.0310354298269707	1	1	65537	2034	BP	secretion
+GO:0048203	1.31976335009126e-05	4	6	65532	2034	BP	vesicle targeting, trans-Golgi to endosome
+GO:0048252	0.0132880098432269	2	6	65532	2034	BP	lauric acid metabolic process
+GO:0048841	0.000556404251000965	3	6	65532	2034	BP	regulation of axon extension involved in axon guidance
+GO:0048863	0.00304076635202053	3	10	65528	2034	BP	stem cell differentiation
+GO:0050873	0.000284800942250939	3	5	65533	2034	BP	brown fat cell differentiation
+GO:0050908	0.0310354298269707	1	1	65537	2034	BP	detection of light stimulus involved in visual perception
+GO:0051146	0.0238014065649969	2	8	65530	2034	BP	striated muscle cell differentiation
+GO:0051574	0.000284800942250939	3	5	65533	2034	BP	positive regulation of histone H3-K9 methylation
+GO:0051881	0.0182227406929269	2	7	65531	2034	BP	regulation of mitochondrial membrane potential
+GO:0055123	1.4837979891317e-06	5	8	65530	2034	BP	digestive system development
+GO:0060174	0.00282851603417694	2	3	65535	2034	BP	limb bud formation
+GO:0060421	0.0132880098432269	2	6	65532	2034	BP	positive regulation of heart growth
+GO:0060666	2.98505514658859e-05	3	3	65535	2034	BP	dichotomous subdivision of terminal units involved in salivary gland branching
+GO:0060668	0.0310354298269707	1	1	65537	2034	BP	regulation of branching involved in salivary gland morphogenesis by extracellular matrix-epithelial cell signaling
+GO:0071158	0.000556404251000965	3	6	65532	2034	BP	positive regulation of cell cycle arrest
+GO:0071280	0.000962739045702904	2	2	65536	2034	BP	cellular response to copper ion
+GO:0071420	0.00554040516439133	2	4	65534	2034	BP	cellular response to histamine
+GO:0071476	0.0238014065649969	2	8	65530	2034	BP	cellular hypotonic response
+GO:0071526	0.00432574168404891	4	22	65516	2034	BP	semaphorin-plexin signaling pathway
+GO:0071542	0.00904414131248493	2	5	65533	2034	BP	dopaminergic neuron differentiation
+GO:0090303	0.0367139647683727	2	10	65528	2034	BP	positive regulation of wound healing
+GO:0090308	0.000962739045702904	2	2	65536	2034	BP	regulation of methylation-dependent chromatin silencing
+GO:0097009	0.00675965920217898	3	13	65525	2034	BP	energy homeostasis
+GO:0097185	0.000962739045702904	2	2	65536	2034	BP	cellular response to azide
+GO:1900029	0.0310354298269707	1	1	65537	2034	BP	positive regulation of ruffle assembly
+GO:1900248	0.0310354298269707	1	1	65537	2034	BP	negative regulation of cytoplasmic translational elongation
+GO:1900365	0.0310354298269707	1	1	65537	2034	BP	positive regulation of mRNA polyadenylation
+GO:2000121	0.0310354298269707	1	1	65537	2034	BP	regulation of removal of superoxide radicals
+GO:2000727	0.0310354298269707	1	1	65537	2034	BP	positive regulation of cardiac muscle cell differentiation
+GO:2001295	0.00904414131248493	2	5	65533	2034	BP	malonyl-CoA biosynthetic process

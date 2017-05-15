@@ -1,0 +1,135 @@
+library(edgeR)
+#set up the experimental design matrix
+metadata<-read.table('metadata2.txt',sep='\t',header=TRUE,row.names=1)
+
+exp<-metadata$group
+names(exp)<-rownames(metadata)
+exp<-exp[exp %in% c("control","EE2","Mix","Cd","BNF")]
+ee2<-vector(length=length(exp))
+ee2[exp %in% c('EE2','Mix')]<-1
+cd<-vector(length=length(exp))
+cd[exp %in% c('Cd','Mix')]<-1
+bnf<-vector(length=length(exp))
+bnf[exp %in% c('BNF','Mix')]<-1
+design<-model.matrix(~cd+ee2+bnf+cd:ee2:bnf)
+rownames(design)<-names(exp)
+
+#read the data
+x<-read.table('/home/tobiaso/abborre/perca/wholetranscript/west_coast/abundance_matrix_westcoast.txt',sep='\t',header=TRUE,row.names=1)
+annotation<-read.table('/storage/tobiaso/perca/annotation_transcripts2_westcoast.txt',sep='\t',header=TRUE,row.names=1,comment.char="",quote="")
+x<-x[,c(16:23,1:15)]
+
+#filter out singletons and low abundant transcripts:
+x<-as.matrix(x)
+cutoff<-4
+n1<-apply(x,1,function(xrow) {return(sum(xrow>0))}) #check if number of nonzero entries is above cutoff
+test1<-(n1>=cutoff)
+#mean1<-apply(x,1,mean) #test if avg count is above 2.
+#test2<-(mean1>=2)
+#test <- (test1 & test2)
+
+x<-x[test1,]
+ngroup<-length(exp)
+head(x)
+n<-nrow(x)
+
+
+#DE analysis
+
+#pairwise:
+
+analyze.edgeR<-function(x.sel,exp.sel,name,description,only.sig=FALSE){
+  n<-nrow(x.sel)
+  y <- DGEList(counts=x.sel,group=exp.sel)
+  y<-calcNormFactors(y,method="TMM")
+  y <- estimateCommonDisp(y)
+  y <- estimateTagwiseDisp(y)
+  design.sel<-model.matrix(~exp.sel)
+  design.sel<-design.sel[,colnames(design.sel) %in% c("(Intercept)",paste("exp.sel",name,sep=""))]
+  rownames(design.sel)<-colnames(x.sel)
+  glm<-glmFit(y,design=design.sel)
+  glm<-glmLRT(glm,coef=2)#likelihood ratio test
+  results<-topTags(glm,n)
+  pseudocounts<-y$pseudo.counts
+  #write.table(pseudocounts,paste('pseudocounts_',name,'vs.control.txt',sep=''),sep='\t',quote=FALSE,col.names=NA)
+  outputAll<-results[[1]]
+  if (only.sig==TRUE){
+    outputAll<-outputAll[outputAll$FDR<0.05,]
+  }
+  output<-merge(outputAll,annotation, by.x=0,by.y=0, all.x=TRUE)
+  output<-output[order(output$FDR),]
+  if (only.sig==TRUE){
+    write.table(output,paste('/storage/tobiaso/perca/results_',name,'vs.control_FDR0.05.txt',sep=''),sep='\t',quote=FALSE,row.names=FALSE)
+  }
+  else{
+    write.table(output,paste('/storage/tobiaso/perca/results_',name,'vs.control.txt',sep=''),sep='\t',quote=FALSE,row.names=FALSE)
+  }
+  tmp<-list(results=output,pseudo.counts=pseudocounts)
+  return(tmp)
+}
+x.sel<-x[,exp %in% c("control", "EE2")]
+exp.sel<-exp[exp %in% c("control", "EE2")]
+exp.sel<-relevel(exp.sel,"control")
+out.ee2<-analyze.edgeR(x.sel,exp.sel,"EE2",annotation,only.sig=TRUE)
+
+x.sel<-x[,exp %in% c("control", "Mix")]
+exp.sel<-exp[exp %in% c("control", "Mix")]
+exp.sel<-relevel(exp.sel,"control")
+out.mix<-analyze.edgeR(x.sel,exp.sel,"Mix",annotation,only.sig=TRUE)
+
+x.sel<-x[,exp %in% c("control", "Cd")]
+exp.sel<-exp[exp %in% c("control", "Cd")]
+exp.sel<-relevel(exp.sel,"control")
+out.cd<-analyze.edgeR(x.sel,exp.sel,"Cd",annotation,only.sig=TRUE)
+
+x.sel<-x[,exp %in% c("control", "BNF")]
+exp.sel<-exp[exp %in% c("control", "BNF")]
+exp.sel<-relevel(exp.sel,"control")
+out.bnf<-analyze.edgeR(x.sel,exp.sel,"BNF",annotation,only.sig=TRUE)
+
+# 
+# pdf('pca_pairwise.pdf',height=10,width=10)
+# par(mfrow=c(2,2),mar=c(4,4,4,6))
+# colors<-c(rep("darkred",5),rep("dodgerblue",5))
+# par(xpd=NA)
+# namevec=c("EE2","Mix","Cd","BNF")
+# for (i in 1:length(namevec)){
+#   pc<-read.table(paste('pseudocounts_',namevec[[i]],'vs.control.txt',sep=''),header=TRUE,row.names=1)
+#   pca<-prcomp(t(sqrt(pc)))
+#   explained.pc1<-summary(pca)$importance[2,1]
+#   explained.pc2<-summary(pca)$importance[2,2]
+#   plot(pca$x[,c(1,2)],bg=colors,pch=21,bty='n',main=paste('PCA ', namevec[[i]], " vs. control",sep=''),xlab='',ylab='')
+#   title(xlab=sprintf("PC1(%1.0f%%)",explained.pc1*100),ylab=sprintf("PC2 (%1.0f%%)",explained.pc2*100))
+#   legend("topright",legend=c("control",namevec[[i]]),pch=21,pt.bg=unique(colors),inset=c(-0.2,-0.05))
+# }
+# 
+# 
+# dev.off()
+# 
+# pdf('pca_pairwise_nn.pdf',height=10,width=10)
+# par(mfrow=c(2,2),mar=c(4,4,4,6))
+# colors<-c(rep("darkred",5),rep("dodgerblue",5))
+# par(xpd=NA)
+# namevec=c("EE2","Mix","Cd","BNF")
+# for (i in 1:length(namevec)){
+#   x.sel<-x[,exp %in% c("control", namevec[[i]])]
+#   pca<-prcomp(t(sqrt(x.sel)))
+#   explained.pc1<-summary(pca)$importance[2,1]
+#   explained.pc2<-summary(pca)$importance[2,2]
+#   plot(pca$x[,c(1,2)],bg=colors,pch=21,bty='n',main=paste('PCA ', namevec[[i]], " vs. control",sep=''),xlab='',ylab='')
+#   title(xlab=sprintf("PC1(%1.0f%%)",explained.pc1*100),ylab=sprintf("PC2 (%1.0f%%)",explained.pc2*100))
+#   legend("topright",legend=c("control",namevec[[i]]),pch=21,pt.bg=unique(colors),inset=c(-0.2,-0.05))
+# }
+# 
+# 
+# dev.off()
+# cutoff<-0.05
+# sig.ee2<-out.ee2$results[out.ee2$results$FDR<cutoff,"Row.names"]
+# sig.mix<-out.mix$results[out.mix$results$FDR<cutoff,"Row.names"]
+# sig.cd<-out.cd$results[out.cd$results$FDR<cutoff,"Row.names"]
+# sig.bnf<-out.bnf$results[out.bnf$results$FDR<cutoff,"Row.names"]
+# library(gplots)
+# pdf('venn.pdf',height=5,width=5)
+# v1<-venn(list(EE2=sig.ee2,Mix=sig.mix,Cd=sig.cd,BNF=sig.bnf))
+# dev.off()
+# inputvenn<-list(out.ee2)

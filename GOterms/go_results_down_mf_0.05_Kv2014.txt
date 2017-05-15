@@ -1,0 +1,99 @@
+	Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+1	GO:0000293	0.00282851603417694	2	3	65535	2034	MF	ferric-chelate reductase activity
+2	GO:0001716	3.00329603663006e-05	4	7	65531	2034	MF	L-amino-acid oxidase activity
+3	GO:0003851	0.0310354298269707	1	1	65537	2034	MF	2-hydroxyacylsphingosine 1-beta-galactosyltransferase activity
+4	GO:0003857	0.000962739045702904	2	2	65536	2034	MF	3-hydroxyacyl-CoA dehydrogenase activity
+5	GO:0003964	0.00104203594254721	15	192	65346	2034	MF	RNA-directed DNA polymerase activity
+6	GO:0003989	0.0132880098432269	2	6	65532	2034	MF	acetyl-CoA carboxylase activity
+7	GO:0004016	0.0299793250851023	2	9	65529	2034	MF	adenylate cyclase activity
+8	GO:0004029	0.00246800598139395	4	19	65519	2034	MF	aldehyde dehydrogenase (NAD) activity
+9	GO:0004030	0.00904414131248493	2	5	65533	2034	MF	aldehyde dehydrogenase [NAD(P)+] activity
+10	GO:0004075	0.0299793250851023	2	9	65529	2034	MF	biotin carboxylase activity
+11	GO:0004126	0.00554040516439133	2	4	65534	2034	MF	cytidine deaminase activity
+12	GO:0004143	0.00304076635202053	3	10	65528	2034	MF	diacylglycerol kinase activity
+13	GO:0004165	0.000962739045702904	2	2	65536	2034	MF	dodecenoyl-CoA delta-isomerase activity
+14	GO:0004175	0.0104515599687405	4	28	65510	2034	MF	endopeptidase activity
+15	GO:0004190	5.97041192496831e-06	7	24	65514	2034	MF	aspartic-type endopeptidase activity
+16	GO:0004252	0.000678441646593278	14	165	65373	2034	MF	serine-type endopeptidase activity
+17	GO:0004300	0.00282851603417694	2	3	65535	2034	MF	enoyl-CoA hydratase activity
+18	GO:0004306	0.0310354298269707	1	1	65537	2034	MF	ethanolamine-phosphate cytidylyltransferase activity
+19	GO:0004332	0.000556404251000965	3	6	65532	2034	MF	fructose-bisphosphate aldolase activity
+20	GO:0004375	0.0310354298269707	1	1	65537	2034	MF	glycine dehydrogenase (decarboxylating) activity
+21	GO:0004397	0.0310354298269707	1	1	65537	2034	MF	histidine ammonia-lyase activity
+22	GO:0004411	0.0310354298269707	1	1	65537	2034	MF	homogentisate 1,2-dioxygenase activity
+23	GO:0004448	0.000962739045702904	2	2	65536	2034	MF	isocitrate dehydrogenase activity
+24	GO:0004450	0.0238014065649969	2	8	65530	2034	MF	isocitrate dehydrogenase (NADP+) activity
+25	GO:0004467	0.000401716743708146	6	32	65506	2034	MF	long-chain fatty acid-CoA ligase activity
+26	GO:0004491	0.00011662690396255	3	4	65534	2034	MF	methylmalonate-semialdehyde dehydrogenase (acylating) activity
+27	GO:0004497	0.000890356292823165	8	65	65473	2034	MF	monooxygenase activity
+28	GO:0004505	9.25100633664672e-07	4	4	65534	2034	MF	phenylalanine 4-monooxygenase activity
+29	GO:0004510	0.0310354298269707	1	1	65537	2034	MF	tryptophan 5-monooxygenase activity
+30	GO:0004512	0.0310354298269707	1	1	65537	2034	MF	inositol-3-phosphate synthase activity
+31	GO:0004528	0.00904414131248493	2	5	65533	2034	MF	phosphodiesterase I activity
+32	GO:0004550	0.0299793250851023	2	9	65529	2034	MF	nucleoside diphosphate kinase activity
+33	GO:0004637	2.98505514658859e-05	3	3	65535	2034	MF	phosphoribosylamine-glycine ligase activity
+34	GO:0004638	0.0310354298269707	1	1	65537	2034	MF	phosphoribosylaminoimidazole carboxylase activity
+35	GO:0004639	0.0310354298269707	1	1	65537	2034	MF	phosphoribosylaminoimidazolesuccinocarboxamide synthase activity
+36	GO:0004641	2.98505514658859e-05	3	3	65535	2034	MF	phosphoribosylformylglycinamidine cyclo-ligase activity
+37	GO:0004644	2.98505514658859e-05	3	3	65535	2034	MF	phosphoribosylglycinamide formyltransferase activity
+38	GO:0004645	0.0310354298269707	1	1	65537	2034	MF	phosphorylase activity
+39	GO:0004652	0.0182227406929269	2	7	65531	2034	MF	polynucleotide adenylyltransferase activity
+40	GO:0004707	0.0204564972594078	4	34	65504	2034	MF	MAP kinase activity
+41	GO:0004745	4.51087843695709e-06	4	5	65533	2034	MF	retinol dehydrogenase activity
+42	GO:0004760	0.00148674307671706	3	8	65530	2034	MF	serine-pyruvate transaminase activity
+43	GO:0004866	7.74133933772001e-05	17	186	65352	2034	MF	endopeptidase inhibitor activity
+44	GO:0005102	5.44305035882105e-06	13	92	65446	2034	MF	receptor binding
+45	GO:0005215	0.0380614388819196	7	101	65437	2034	MF	transporter activity
+46	GO:0005319	6.68407993731203e-18	18	37	65501	2034	MF	lipid transporter activity
+47	GO:0005501	0.00011662690396255	3	4	65534	2034	MF	retinoid binding
+48	GO:0005506	2.1035468553952e-05	18	185	65353	2034	MF	iron ion binding
+49	GO:0008081	0.000167184327377781	4	10	65528	2034	MF	phosphoric diester hydrolase activity
+50	GO:0008119	2.98505514658859e-05	3	3	65535	2034	MF	thiopurine S-methyltransferase activity
+51	GO:0008131	0.00904414131248493	2	5	65533	2034	MF	primary amine oxidase activity
+52	GO:0008146	0.014928483589595	4	31	65507	2034	MF	sulfotransferase activity
+53	GO:0008199	1.13207437023061e-05	5	11	65527	2034	MF	ferric iron binding
+54	GO:0008201	0.00168526494170067	7	56	65482	2034	MF	heparin binding
+55	GO:0008311	0.0310354298269707	1	1	65537	2034	MF	double-stranded DNA 3'-5' exodeoxyribonuclease activity
+56	GO:0008410	0.0310354298269707	1	1	65537	2034	MF	CoA-transferase activity
+57	GO:0008434	0.00904414131248493	2	5	65533	2034	MF	calcitriol receptor activity
+58	GO:0008453	0.00304076635202053	3	10	65528	2034	MF	alanine-glyoxylate transaminase activity
+59	GO:0008599	0.0310354298269707	1	1	65537	2034	MF	protein phosphatase type 1 regulator activity
+60	GO:0008898	1.4837979891317e-06	5	8	65530	2034	MF	S-adenosylmethionine-homocysteine S-methyltransferase activity
+61	GO:0009032	0.0310354298269707	1	1	65537	2034	MF	thymidine phosphorylase activity
+62	GO:0015020	0.000743806880784903	5	24	65514	2034	MF	glucuronosyltransferase activity
+63	GO:0016154	0.0310354298269707	1	1	65537	2034	MF	pyrimidine-nucleoside phosphorylase activity
+64	GO:0016491	0.000531505217044645	14	161	65377	2034	MF	oxidoreductase activity
+65	GO:0016594	0.0310354298269707	1	1	65537	2034	MF	glycine binding
+66	GO:0016597	0.00199716640340132	4	18	65520	2034	MF	amino acid binding
+67	GO:0016705	0.00397767678419973	7	65	65473	2034	MF	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+68	GO:0016712	0.00598230300604371	4	24	65514	2034	MF	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen
+69	GO:0016790	0.000951182718976963	3	7	65531	2034	MF	thiolester hydrolase activity
+70	GO:0016830	0.000962739045702904	2	2	65536	2034	MF	carbon-carbon lyase activity
+71	GO:0017095	0.0310354298269707	1	1	65537	2034	MF	heparan sulfate 6-O-sulfotransferase activity
+72	GO:0017154	0.0146548921337793	3	17	65521	2034	MF	semaphorin receptor activity
+73	GO:0018478	0.00011662690396255	3	4	65534	2034	MF	malonate-semialdehyde dehydrogenase (acetylating) activity
+74	GO:0019829	0.0439648546564772	2	11	65527	2034	MF	cation-transporting ATPase activity
+75	GO:0020037	0.00145576312998585	13	159	65379	2034	MF	heme binding
+76	GO:0030246	1.76647456815583e-46	65	206	65332	2034	MF	carbohydrate binding
+77	GO:0030331	0.0118314021647759	4	29	65509	2034	MF	estrogen receptor binding
+78	GO:0031957	0.00362746508614474	4	21	65517	2034	MF	very long-chain fatty acid-CoA ligase activity
+79	GO:0032266	0.000119667914804068	6	26	65512	2034	MF	phosphatidylinositol-3-phosphate binding
+80	GO:0033897	0.000962739045702904	2	2	65536	2034	MF	ribonuclease T2 activity
+81	GO:0035529	0.00282851603417694	2	3	65535	2034	MF	NADH pyrophosphatase activity
+82	GO:0042296	0.0310354298269707	1	1	65537	2034	MF	ISG15 transferase activity
+83	GO:0045735	2.36554195822222e-18	13	15	65523	2034	MF	nutrient reservoir activity
+84	GO:0047150	9.35685291531394e-10	7	9	65529	2034	MF	betaine-homocysteine S-methyltransferase activity
+85	GO:0047263	0.0310354298269707	1	1	65537	2034	MF	N-acylsphingosine galactosyltransferase activity
+86	GO:0047390	0.000962739045702904	2	2	65536	2034	MF	glycerophosphocholine cholinephosphodiesterase activity
+87	GO:0047801	0.0310354298269707	1	1	65537	2034	MF	L-cysteine:2-oxoglutarate aminotransferase activity
+88	GO:0048037	1.13207437023061e-05	5	11	65527	2034	MF	cofactor binding
+89	GO:0048406	0.00304076635202053	3	10	65528	2034	MF	nerve growth factor binding
+90	GO:0050023	0.000962739045702904	2	2	65536	2034	MF	L-fuconate dehydratase activity
+91	GO:0050265	0.0182227406929269	2	7	65531	2034	MF	RNA uridylyltransferase activity
+92	GO:0050681	0.0321513516185295	4	39	65499	2034	MF	androgen receptor binding
+93	GO:0051536	0.00300980449153634	4	20	65518	2034	MF	iron-sulfur cluster binding
+94	GO:0052597	0.000962739045702904	2	2	65536	2034	MF	diamine oxidase activity
+95	GO:0052598	0.000962739045702904	2	2	65536	2034	MF	histamine oxidase activity
+96	GO:0052599	0.000962739045702904	2	2	65536	2034	MF	methylputrescine oxidase activity
+97	GO:0052600	0.000962739045702904	2	2	65536	2034	MF	propane-1,3-diamine oxidase activity
+98	GO:0080025	0.00362746508614474	4	21	65517	2034	MF	phosphatidylinositol-3,5-bisphosphate binding
