@@ -1,0 +1,4 @@
+	EE2 vs. control	Cd vs. control	BNF vs. control	Mix vs. control
+Number of significant (FDR<0.05)	303	11	58	665
+Up-regulated (FDR<0.05)	250	3	51	426
+Down-regulated(FDR<0.05)	53	8	7	239

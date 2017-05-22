@@ -1,0 +1,1 @@
+Row.names	logFC Cd	logCPM	LR	PValue	FDR Cd	Annotation_uniprot	Annotation_fish	logFC Mix	FDR Mix
