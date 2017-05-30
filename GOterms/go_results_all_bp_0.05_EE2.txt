@@ -1,0 +1,23 @@
+Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+GO:0034605	3.49217791893979e-05	3	21	100228	303	BP	cellular response to heat
+GO:0042742	7.55578458208156e-05	4	73	100176	303	BP	defense response to bacterium
+GO:0032355	0.000267646531508191	3	41	100208	303	BP	response to estradiol
+GO:0032868	0.000376898959093881	3	46	100203	303	BP	response to insulin
+GO:0007009	0.00507231585871864	2	35	100214	303	BP	plasma membrane organization
+GO:0010265	0.00603584278880342	1	2	100247	303	BP	SCF complex assembly
+GO:0001951	0.0120353736914562	1	4	100245	303	BP	intestinal D-glucose absorption
+GO:0007218	0.0120353736914562	1	4	100245	303	BP	neuropeptide signaling pathway
+GO:0032532	0.0120353736914562	1	4	100245	303	BP	regulation of microvillus length
+GO:0031334	0.015021590278533	1	5	100244	303	BP	positive regulation of protein complex assembly
+GO:0015701	0.0239263694763486	1	8	100241	303	BP	bicarbonate transport
+GO:0071896	0.0239263694763486	1	8	100241	303	BP	protein localization to adherens junction
+GO:0043086	0.0268767621305382	1	9	100240	303	BP	negative regulation of catalytic activity
+GO:0051453	0.0268767621305382	1	9	100240	303	BP	regulation of intracellular pH
+GO:0007018	0.0306294619848986	2	90	100159	303	BP	microtubule-based movement
+GO:0032259	0.0327509075728633	1	11	100238	303	BP	methylation
+GO:0045899	0.0356747136644198	1	12	100237	303	BP	positive regulation of RNA polymerase II transcriptional preinitiation complex assembly
+GO:0055113	0.03858971073895	1	13	100236	303	BP	epiboly involved in gastrulation with mouth forming second
+GO:0006325	0.0414959252491671	1	14	100235	303	BP	chromatin organization
+GO:0006749	0.0443933835686113	1	15	100234	303	BP	glutathione metabolic process
+GO:0007051	0.0472821119918879	1	16	100233	303	BP	spindle organization
+GO:0070830	0.0472821119918879	1	16	100233	303	BP	bicellular tight junction assembly

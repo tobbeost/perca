@@ -1,0 +1,2 @@
+	Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+1	GO:0042605	0.0116788880169486	1	107	100142	11	MF	peptide antigen binding

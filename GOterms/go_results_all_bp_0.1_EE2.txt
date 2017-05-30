@@ -1,0 +1,22 @@
+Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+GO:0042742	9.03199173146282e-06	5	73	100176	378	BP	defense response to bacterium
+GO:0034605	6.72536957181728e-05	3	21	100228	378	BP	cellular response to heat
+GO:0032355	0.000509730011977429	3	41	100208	378	BP	response to estradiol
+GO:0032868	0.000715811073918004	3	46	100203	378	BP	response to insulin
+GO:0010265	0.00752704231868462	1	2	100247	378	BP	SCF complex assembly
+GO:0007009	0.00777123346803188	2	35	100214	378	BP	plasma membrane organization
+GO:0001951	0.0149975770301116	1	4	100245	378	BP	intestinal D-glucose absorption
+GO:0007218	0.0149975770301116	1	4	100245	378	BP	neuropeptide signaling pathway
+GO:0032532	0.0149975770301116	1	4	100245	378	BP	regulation of microvillus length
+GO:0031334	0.0187117863760404	1	5	100244	378	BP	positive regulation of protein complex assembly
+GO:0045087	0.025756484013567	3	167	100082	378	BP	innate immune response
+GO:0008616	0.0260983520037035	1	7	100242	378	BP	queuosine biosynthetic process
+GO:0009617	0.0260983520037035	1	7	100242	378	BP	response to bacterium
+GO:0015701	0.0297708128778142	1	8	100241	378	BP	bicarbonate transport
+GO:0071896	0.0297708128778142	1	8	100241	378	BP	protein localization to adherens junction
+GO:0043086	0.0334294618610866	1	9	100240	378	BP	negative regulation of catalytic activity
+GO:0051453	0.0334294618610866	1	9	100240	378	BP	regulation of intracellular pH
+GO:0032259	0.040705531194775	1	11	100238	378	BP	methylation
+GO:0045899	0.0443230545811991	1	12	100237	378	BP	positive regulation of RNA polymerase II transcriptional preinitiation complex assembly
+GO:0007018	0.0456973513514431	2	90	100159	378	BP	microtubule-based movement
+GO:0055113	0.047926972150244	1	13	100236	378	BP	epiboly involved in gastrulation with mouth forming second

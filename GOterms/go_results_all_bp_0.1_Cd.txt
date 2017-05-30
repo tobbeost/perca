@@ -1,0 +1,10 @@
+Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+GO:0007158	0.00257089763975249	1	6	100243	43	BP	neuron cell-cell adhesion
+GO:0050804	0.00470837985470096	1	11	100238	43	BP	modulation of synaptic transmission
+GO:0006955	0.00646394069505996	2	279	99970	43	BP	immune response
+GO:0007416	0.00982009941658379	1	23	100226	43	BP	synapse assembly
+GO:0030513	0.0136370521450169	1	32	100217	43	BP	positive regulation of BMP signaling pathway
+GO:0055072	0.0212278922513602	1	50	100199	43	BP	iron ion homeostasis
+GO:0016042	0.0325072787454409	1	77	100172	43	BP	lipid catabolic process
+GO:0007411	0.0362387838687883	1	86	100163	43	BP	axon guidance
+GO:0002474	0.0498010833713857	1	119	100130	43	BP	antigen processing and presentation of peptide antigen via MHC class I

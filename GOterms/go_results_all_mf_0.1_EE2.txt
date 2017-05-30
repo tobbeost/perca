@@ -1,0 +1,20 @@
+	Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+8	GO:0005319	4.83917701371055e-25	13	27	100222	378	MF	lipid transporter activity
+18	GO:0045735	5.15432854994656e-25	10	10	100239	378	MF	nutrient reservoir activity
+16	GO:0030246	6.3023510926632e-22	23	334	99915	378	MF	carbohydrate binding
+5	GO:0004867	2.82986561324748e-16	12	79	100170	378	MF	serine-type endopeptidase inhibitor activity
+9	GO:0008233	3.94635452637674e-13	10	76	100173	378	MF	peptidase activity
+4	GO:0004866	1.41598759162146e-09	12	287	99962	378	MF	endopeptidase inhibitor activity
+1	GO:0001716	4.39294145186355e-06	3	9	100240	378	MF	L-amino-acid oxidase activity
+7	GO:0005261	0.0010760437526661	2	13	100236	378	MF	cation channel activity
+3	GO:0003896	0.00377061117816646	1	1	100248	378	MF	DNA primase activity
+6	GO:0005102	0.0110339696968955	3	121	100128	378	MF	receptor binding
+13	GO:0015116	0.0149975770301116	1	4	100245	378	MF	sulfate transmembrane transporter activity
+15	GO:0019531	0.0187117863760404	1	5	100244	378	MF	oxalate transmembrane transporter activity
+19	GO:0072345	0.0187117863760404	1	5	100244	378	MF	NAADP-sensitive calcium-release channel activity
+11	GO:0008479	0.0260983520037035	1	7	100242	378	MF	queuine tRNA-ribosyltransferase activity
+12	GO:0015106	0.0260983520037035	1	7	100242	378	MF	bicarbonate transmembrane transporter activity
+14	GO:0015301	0.0334294618610866	1	9	100240	378	MF	anion:anion antiporter activity
+10	GO:0008271	0.0370743507618898	1	10	100239	378	MF	secondary active sulfate transmembrane transporter activity
+2	GO:0003840	0.040705531194775	1	11	100238	378	MF	gamma-glutamyltransferase activity
+17	GO:0030284	0.047926972150244	1	13	100236	378	MF	estrogen receptor activity

@@ -1,0 +1,13 @@
+	Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+3	GO:0004252	7.75688615293175e-10	6	230	100019	43	MF	serine-type endopeptidase activity
+5	GO:0004771	0.000857684213089516	1	2	100247	43	MF	sterol esterase activity
+7	GO:0004872	0.00108408807560239	2	112	100137	43	MF	receptor activity
+10	GO:0042043	0.00171464989712999	1	4	100245	43	MF	neurexin family protein binding
+2	GO:0004222	0.00173176896530466	2	142	100107	43	MF	metalloendopeptidase activity
+4	GO:0004521	0.00598872093227254	1	14	100235	43	MF	endoribonuclease activity
+6	GO:0004806	0.0068413877658674	1	16	100233	43	MF	triglyceride lipase activity
+12	GO:0052689	0.00726745323658118	1	17	100232	43	MF	carboxylic ester hydrolase activity
+9	GO:0030247	0.00896993051658612	1	21	100228	43	MF	polysaccharide binding
+1	GO:0004181	0.0115183006525258	1	27	100222	43	MF	metallocarboxypeptidase activity
+8	GO:0005044	0.0216479283857841	1	51	100198	43	MF	scavenger receptor activity
+11	GO:0042605	0.0448910464091848	1	107	100142	43	MF	peptide antigen binding

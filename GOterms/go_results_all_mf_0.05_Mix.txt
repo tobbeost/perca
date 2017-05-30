@@ -1,0 +1,42 @@
+	Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+31	GO:0030246	3.99076411088998e-28	33	334	99915	665	MF	carbohydrate binding
+18	GO:0005319	5.16310064333251e-24	14	27	100222	665	MF	lipid transporter activity
+34	GO:0045735	1.54199020988478e-22	10	10	100239	665	MF	nutrient reservoir activity
+15	GO:0004867	7.58007429597722e-15	13	79	100170	665	MF	serine-type endopeptidase inhibitor activity
+22	GO:0008233	3.90903409189273e-12	11	76	100173	665	MF	peptidase activity
+40	GO:0070330	1.4756494514372e-10	8	38	100211	665	MF	aromatase activity
+14	GO:0004866	1.4852665021683e-10	16	287	99962	665	MF	endopeptidase inhibitor activity
+30	GO:0020037	4.47668281153486e-07	11	227	100022	665	MF	heme binding
+32	GO:0030284	1.30833138984504e-06	4	13	100236	665	MF	estrogen receptor activity
+20	GO:0005506	3.94242274285303e-06	11	284	99965	665	MF	iron ion binding
+19	GO:0005496	2.55439637200853e-05	4	26	100223	665	MF	steroid binding
+13	GO:0004800	0.000261305221311466	2	4	100245	665	MF	thyroxine 5'-deiodinase activity
+21	GO:0005540	0.000261305221311466	2	4	100245	665	MF	hyaluronic acid binding
+33	GO:0035252	0.000433590594908148	2	5	100244	665	MF	UDP-xylosyltransferase activity
+27	GO:0016712	0.000841247488133183	3	28	100221	665	MF	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen
+9	GO:0004392	0.000902543905031654	2	7	100242	665	MF	heme oxygenase (decyclizing) activity
+1	GO:0001716	0.00153364537918113	2	9	100240	665	MF	L-amino-acid oxidase activity
+6	GO:0003987	0.00190863661306521	2	10	100239	665	MF	acetate-CoA ligase activity
+8	GO:0004331	0.00190863661306521	2	10	100239	665	MF	fructose-2,6-bisphosphate 2-phosphatase activity
+16	GO:0005021	0.00379241502574783	2	14	100235	665	MF	vascular endothelial growth factor-activated receptor activity
+5	GO:0003873	0.00435669691117733	2	15	100234	665	MF	6-phosphofructo-2-kinase activity
+29	GO:0019825	0.00559367601746417	2	17	100232	665	MF	oxygen binding
+11	GO:0004512	0.00663348262825547	1	1	100248	665	MF	inositol-3-phosphate synthase activity
+35	GO:0046592	0.00663348262825547	1	1	100248	665	MF	polyamine oxidase activity
+37	GO:0052894	0.00663348262825547	1	1	100248	665	MF	norspermine:oxygen oxidoreductase activity
+38	GO:0052895	0.00663348262825547	1	1	100248	665	MF	N1-acetylspermine:oxygen oxidoreductase (N1-acetylspermidine-forming) activity
+39	GO:0052901	0.00663348262825547	1	1	100248	665	MF	spermine:oxygen oxidoreductase (spermidine-forming) activity
+36	GO:0051920	0.00697186738574648	2	19	100230	665	MF	peroxiredoxin activity
+26	GO:0016208	0.00771268349892743	2	20	100229	665	MF	AMP binding
+25	GO:0015279	0.0132230278965129	1	2	100247	665	MF	store-operated calcium channel activity
+10	GO:0004497	0.0210338087278307	3	88	100161	665	MF	monooxygenase activity
+12	GO:0004666	0.0262714667818529	1	4	100245	665	MF	prostaglandin-endoperoxide synthase activity
+24	GO:0015116	0.0262714667818529	1	4	100245	665	MF	sulfate transmembrane transporter activity
+3	GO:0001872	0.0317616040045967	2	42	100207	665	MF	(1->3)-beta-D-glucan binding
+28	GO:0019531	0.0327309358285889	1	5	100244	665	MF	oxalate transmembrane transporter activity
+41	GO:0072345	0.0327309358285889	1	5	100244	665	MF	NAADP-sensitive calcium-release channel activity
+2	GO:0001848	0.0345970319582607	2	44	100205	665	MF	complement binding
+7	GO:0004144	0.039147618399855	1	6	100243	665	MF	diacylglycerol O-acyltransferase activity
+23	GO:0015106	0.0455217974823257	1	7	100242	665	MF	bicarbonate transmembrane transporter activity
+17	GO:0005102	0.0471241632169951	3	121	100128	665	MF	receptor binding
+4	GO:0003823	0.0484806983410144	2	53	100196	665	MF	antigen binding

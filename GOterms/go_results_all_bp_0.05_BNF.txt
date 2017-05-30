@@ -1,0 +1,44 @@
+Row.names	p	siggenesGO	allgenesGO	allgenes-allgenesGO	siggenes	Ontology	Term
+GO:0002930	3.28963022366383e-07	2	2	100247	58	BP	trabecular meshwork development
+GO:0046466	3.28963022366383e-07	2	2	100247	58	BP	membrane lipid catabolic process
+GO:0071603	3.28963022366383e-07	2	2	100247	58	BP	endothelial cell-cell adhesion
+GO:0006725	9.86521536315137e-07	2	3	100246	58	BP	cellular aromatic compound metabolic process
+GO:0008202	9.86521536315137e-07	2	3	100246	58	BP	steroid metabolic process
+GO:0009404	1.97230831353107e-06	2	4	100245	58	BP	toxin metabolic process
+GO:0046427	1.97230831353107e-06	2	4	100245	58	BP	positive regulation of JAK-STAT cascade
+GO:0097267	1.97230831353107e-06	2	4	100245	58	BP	omega-hydroxylase P450 pathway
+GO:2000377	1.97230831353107e-06	2	4	100245	58	BP	regulation of reactive oxygen species metabolic process
+GO:0008210	3.28595642795057e-06	2	5	100244	58	BP	estrogen metabolic process
+GO:0006809	4.92709925554451e-06	2	6	100243	58	BP	nitric oxide biosynthetic process
+GO:0042574	4.92709925554451e-06	2	6	100243	58	BP	retinal metabolic process
+GO:0019369	6.89537047410123e-06	2	7	100242	58	BP	arachidonic acid metabolic process
+GO:0033629	6.89537047410123e-06	2	7	100242	58	BP	negative regulation of cell adhesion mediated by integrin
+GO:0061304	6.89537047410123e-06	2	7	100242	58	BP	retinal blood vessel morphogenesis
+GO:0019373	1.18118343030435e-05	2	9	100240	58	BP	epoxygenase P450 pathway
+GO:0010575	1.80324233651995e-05	2	11	100238	58	BP	positive regulation of vascular endothelial growth factor production
+GO:0006805	2.55542179262103e-05	2	13	100236	58	BP	xenobiotic metabolic process
+GO:0016125	2.55542179262103e-05	2	13	100236	58	BP	sterol metabolic process
+GO:0042572	3.43743030600184e-05	2	15	100234	58	BP	retinol metabolic process
+GO:0030199	3.92702949903983e-05	2	16	100233	58	BP	collagen fibril organization
+GO:0008631	4.44897686419599e-05	2	17	100232	58	BP	intrinsic apoptotic signaling pathway in response to oxidative stress
+GO:0043542	8.2579418706023e-05	2	23	100226	58	BP	endothelial cell migration
+GO:0048514	9.78474006204419e-05	2	25	100224	58	BP	blood vessel morphogenesis
+GO:0032088	0.000105961909882151	2	26	100223	58	BP	negative regulation of NF-kappaB transcription factor activity
+GO:0071407	0.000105961909882151	2	26	100223	58	BP	cellular response to organic cyclic compound
+GO:0045766	0.000171699553474636	2	33	100216	58	BP	positive regulation of angiogenesis
+GO:0009408	0.000216253540893959	2	37	100212	58	BP	response to heat
+GO:0070301	0.000216253540893959	2	37	100212	58	BP	cellular response to hydrogen peroxide
+GO:0007601	0.000265862269040972	2	41	100208	58	BP	visual perception
+GO:0007155	0.000322462175905195	3	227	100022	58	BP	cell adhesion
+GO:0030336	0.000428163861502563	2	52	100197	58	BP	negative regulation of cell migration
+GO:0055114	0.000628048420531351	2	63	100186	58	BP	oxidation-reduction process
+GO:0009636	0.000709960432719833	2	67	100182	58	BP	response to toxic substance
+GO:0001525	0.00418948747035634	2	165	100084	58	BP	angiogenesis
+GO:0043065	0.00428880418465708	2	167	100082	58	BP	positive regulation of apoptotic process
+GO:0008285	0.00512228227973835	2	183	100066	58	BP	negative regulation of cell proliferation
+GO:0046677	0.00749566540177782	1	13	100236	58	BP	response to antibiotic
+GO:0031101	0.00806996257451742	1	14	100235	58	BP	fin regeneration
+GO:0046686	0.0115088937731722	1	20	100229	58	BP	response to cadmium ion
+GO:0046688	0.0120809087005999	1	21	100228	58	BP	response to copper ion
+GO:0009409	0.0137950023689661	1	24	100225	58	BP	response to cold
+GO:0008543	0.0160759147734767	1	28	100221	58	BP	fibroblast growth factor receptor signaling pathway
