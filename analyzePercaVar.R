@@ -1,0 +1,28 @@
+x<-read.table('pseudocounts_westcoast.txt',sep='\t',header=TRUE,row.names=1)
+exp2<-c("control","control", "control","control","control","EE2","EE2","EE2","EE2","EE2","Mix","Mix","Mix","Mix","Mix","Cd","Cd","Cd","Cd","BNF","BNF","BNF","BNF")
+exp2<-t(exp2)
+exp2<-t(exp2)
+calc.var2<-function(x,exp2){
+  varmat<-matrix(nrow=nrow(x),ncol=length(unique(exp2)))
+  mmat<-matrix(nrow=nrow(x),ncol=length(unique(exp2)))
+  for(i in 1:nrow(x)){
+    xrow<-x[i,]
+    xrow2<-t(xrow)
+    dat<-data.frame(x=xrow2,exp=exp2)
+    colnames(dat)<-c("x","exp")
+    xvar<-aggregate(x~exp,data=dat,FUN=var)
+    xmean<-aggregate(x~exp,data=dat,FUN=mean)
+    varmat[i,]<-xvar$x
+    mmat[i,]<-xmean$x
+    colnames(mmat)<-xmean$exp
+  }
+  colnames(varmat)<-xvar$exp
+  colnames(mmat)<-xmean$exp
+  rownames(varmat)<-rownames(x)
+  rownames(mmat)<-rownames(x)
+  output<-list(varmat=varmat,mmat=mmat)
+  return(output)
+}
+output<-calc.var2(x,exp2)
+write.table(output$varmat,"varmat.txt",sep='\t',quote=F,col.names=NA)
+write.table(output$mmat,"mmat.txt",sep='\t',quote=F,col.names=NA)

@@ -1,0 +1,13 @@
+P3503_106_TRINITY_DN13400_c0_g1_i1	Zona pellucida-like domain-containing protein 1 
+P3503_132_TRINITY_DN2539_c0_g1_i1	Zona pellucida-like domain-containing protein 1 
+P3503_120_TRINITY_DN6202_c0_g1_i1	Zona pellucida sperm-binding protein 3 
+P3503_130_TRINITY_DN19487_c0_g2_i1	Zona pellucida sperm-binding protein 3 
+P3503_130_TRINITY_DN19487_c0_g2_i2	Zona pellucida sperm-binding protein 3 
+P3503_130_TRINITY_DN19487_c0_g2_i3	Zona pellucida sperm-binding protein 3 
+P3503_108_TRINITY_DN18758_c0_g1_i2	Zona pellucida sperm-binding protein 1 
+P3503_133_TRINITY_DN21491_c0_g1_i1	Zona pellucida sperm-binding protein 4 
+P3503_119_TRINITY_DN21719_c0_g3_i1	Zona pellucida sperm-binding protein 3 
+P3503_113_TRINITY_DN30213_c0_g1_i1	Zona pellucida-like domain-containing protein 1 
+P3503_132_TRINITY_DN2539_c0_g2_i1	Zona pellucida-like domain-containing protein 1 
+P3503_108_TRINITY_DN4705_c0_g2_i1	Zona pellucida-like domain-containing protein 1 
+P3503_102_TRINITY_DN30142_c0_g1_i1	NA

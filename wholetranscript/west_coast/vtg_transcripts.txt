@@ -1,0 +1,13 @@
+P3503_108_TRINITY_DN19704_c5_g1_i1	Vitellogenin-2 
+P3503_102_TRINITY_DN19779_c8_g1_i1	Vitellogenin-2 
+P3503_115_TRINITY_DN20999_c2_g1_i3	Vitellogenin-2 
+P3503_114_TRINITY_DN13838_c0_g1_i1	Vitellogenin-2 
+P3503_102_TRINITY_DN19847_c8_g17_i4	Vitellogenin (Fragment) 
+P3503_130_TRINITY_DN22161_c1_g1_i2	Vitellogenin 
+P3503_111_TRINITY_DN23009_c1_g2_i2	Vitellogenin 
+P3503_120_TRINITY_DN35820_c0_g1_i1	Vitellogenin-2 
+P3503_102_TRINITY_DN19821_c6_g1_i2	Vitellogenin 
+P3503_102_TRINITY_DN19821_c6_g1_i1	Vitellogenin-2 
+P3503_106_TRINITY_DN21840_c4_g1_i2	Vitellogenin (Fragment) 
+P3503_113_TRINITY_DN34164_c0_g1_i1	Vitellogenin-2 
+P3503_132_TRINITY_DN35111_c0_g1_i1	Putative vitellogenin receptor 
